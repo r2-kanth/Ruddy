@@ -1,0 +1,1005 @@
+Restaurant Name,City,Locality,Cuisines,Rating,Votes
+Keventers,Lucknow,Gomti Nagar,"Burger, Bakery",4.3,2451
+The Restaurant Co.,Mumbai,Thane West,"Healthy Food, Kebab",0.7,1116
+New Bites,Kolkata,New Town,"Hyderabadi, Thai, Desserts, Pizza",4.9,1154
+Krishna Sweets,Mumbai,Goregaon,"Chinese, Sandwich, Mithai",2.6,204
+Sunrise Garden Express,Jaipur,Bani Park,"Italian, Chinese",4.1,716
+Tasty Corner Pure Veg,Nagpur,Sitabuldi,"Beverages, Bengali, Punjabi",3.0,307
+South Indian Cafe Pure Veg,Chandigarh,Sector 35,"Thai, Lebanese, Burger, Andhra",4.5,683
+Tasty Corner,Nagpur,Sadar,"Asian, Andhra",3.0,1090
+Cafe Coffee Day,Kochi,Kaloor,"Lebanese, Mithai",3.2,1330
+South Indian Bar & Grill Non-Veg Special,Kochi,Aluva,"Continental, Mughlai, Street Food, Desserts",4.1,2057
+Sunrise Diner Non-Veg Special,Chandigarh,Sector 22,"Lebanese, North Indian, Street Food",4.2,1564
+Mainland China,Surat,Ghod Dod Road,"Sandwich, North Indian",4.8,2346
+Spice Tiffin Centre & Co,Jaipur,Vaishali Nagar,"Desserts, Bengali",4.3,2169
+Family Bites,Kochi,MG Road,"Seafood, Rolls, Mughlai",3.1,539
+Sai Hub,Mumbai,Lower Parel,"Ice Cream, Lebanese",2.8,1043
+Biryani Bistro & Co,Pune,Camp,"Bengali, Tandoor, Salads, Street Food",3.1,761
+Star Treats,Delhi,Janakpuri,Mughlai,3.1,725
+Tandoor Point Co.,Mumbai,Colaba,"Asian, Ice Cream",3.1,1153
+Mainland China,Pune,Viman Nagar,"Kerala, Maharashtrian, Sandwich",4.5,411
+Krishna Dhaba Co.,Delhi,Pitampura,"Biryani, Mithai",3.8,1001
+Coastal Restaurant Pure Veg,Hyderabad,Ameerpet,Mughlai,4.1,994
+Natural Ice Cream,Mumbai,Juhu,"Pizza, Rajasthani, Mughlai, Beverages",3.6,1036
+Biryani Foods Non-Veg Special,Kochi,Kaloor,"Desserts, Biryani, Mexican, Pizza",4.9,2653
+Biryani Blues,Delhi,Dwarka,"Healthy Food, Salads, Beverages, Mughlai",4.9,696
+Theobroma,Mumbai,Thane West,"Street Food, Asian, Rolls, Finger Food",4.0,1193
+Cafe Corner Co.,Kolkata,Esplanade,"Rolls, Momos, Rajasthani",2.7,756
+Coastal Restaurant,Ahmedabad,Paldi,"Vegan, Asian, Fast Food, Italian",3.9,1338
+Imperial Treats by Chef Raju,Bangalore,Marathahalli,"Beverages, Tandoor, Mithai",4.2,2232
+Tandoor Dhaba,Delhi,Greater Kailash,"Street Food, Fast Food, Lebanese",2.8,532
+Curry Corner Non-Veg Special,Indore,Rau,"Momos, Mughlai, Continental, Kerala",4.4,187
+New Cafe Pure Veg,Chennai,Adyar,"Lebanese, North Indian, Street Food, Italian",4.8,2046
+Star Hub,Jaipur,Malviya Nagar,"Bakery, Chinese, Seafood, Bengali",4.6,921
+Treat Grill House Non-Veg Special,Pune,Baner,"Vegan, Desserts, Rolls, Beverages",4.9,1398
+Cafe Eatery,Delhi,Saket,"Thai, Beverages",4.4,1087
+South Indian Bistro Pure Veg,Nagpur,Sadar,"Seafood, Burger, South Indian",4.1,1404
+New Garden,Hyderabad,Jubilee Hills,"Mithai, Hyderabadi, South Indian, Street Food",4.5,999
+Pind Balluchi,Chandigarh,Sector 26,"Punjabi, Andhra, Kerala, Kebab",5.0,1208
+Royal Sweets & Snacks Multi-cuisine,Kochi,Aluva,Salads,4.7,1725
+Taco Bell,Chennai,Mylapore,"Street Food, Seafood, Healthy Food",3.3,1042
+Punjabi Eatery,Kolkata,Howrah,"Cafe, Vegan, Asian, Seafood",3.7,682
+Star Plaza,Hyderabad,Madhapur,"Sandwich, Tandoor, Pizza",3.9,485
+Sunrise House,Hyderabad,Kukatpally,"Seafood, Burger",4.4,430
+Sunrise Grill House,Delhi,Hauz Khas,"Maharashtrian, Asian, Biryani, Gujarati",3.9,720
+Maharaja Grill House,Lucknow,Hazratganj,"Burger, Cafe, Salads, Sandwich",1.3,248
+Tandoor Express Non-Veg Special,Ahmedabad,Maninagar,"Tandoor, Vegan, Healthy Food",3.7,1646
+Family Diner & Co,Kochi,Edappally,"Thai, Salads",3.8,944
+South Indian Corner by Chef Raju,Ahmedabad,Satellite,"Mithai, Continental, Bakery",2.8,444
+Chili's,Indore,Palasia,"Mithai, Sandwich, Maharashtrian",1.6,797
+The Grill House Express,Kochi,Aluva,"Ice Cream, North Indian, Punjabi, Seafood",4.3,1964
+Imperial Treats Pure Veg,Indore,Geeta Bhawan,"Thai, Kerala",3.8,1270
+Shree Diner,Lucknow,Alambagh,Rajasthani,4.0,1147
+Costa Coffee,Mumbai,Goregaon,"Mughlai, Momos",3.6,1223
+Tasty Corner Multi-cuisine,Chennai,Besant Nagar,"Continental, Ice Cream, South Indian",4.3,901
+Curry Kitchen,Pune,Viman Nagar,"Biryani, South Indian",4.1,728
+Punjabi Diner & Co,Ahmedabad,Satellite,"Beverages, Kebab, Street Food",4.4,1049
+Bikanervala,Mumbai,Thane West,"Rajasthani, Biryani, Italian, Finger Food",4.2,1673
+Sunrise Dhaba Express,Mumbai,Malad,Punjabi,3.9,1775
+The Eatery Pure Veg,Mumbai,Colaba,Kerala,4.9,2621
+Annapurna Express,Indore,Rajwada,"Vegan, Mithai, Ice Cream",3.8,1586
+Golden Corner Pure Veg,Chennai,Velachery,"Sandwich, Asian",4.1,1388
+Urban Point Co.,Delhi,Lajpat Nagar,"Momos, Hyderabadi, Thai",4.5,2101
+Punjabi Restaurant Co.,Jaipur,Malviya Nagar,"South Asian, Lebanese, Rolls, Ice Cream",4.1,1800
+Chai Point,Surat,Adajan,"Rolls, Seafood, Finger Food, Bengali",3.8,1474
+Biryani Diner & Co,Kolkata,Rajarhat,"Momos, Burger, Street Food",4.3,915
+Biryani Cafe Co.,Indore,Geeta Bhawan,"Ice Cream, Thai",4.3,1635
+Treat Cafe & Co,Mumbai,Juhu,Mithai,2.6,120
+Green Tiffin Centre Pure Veg,Jaipur,Bani Park,North Indian,4.0,1775
+Royal Corner Pure Veg,Ahmedabad,Paldi,Italian,3.6,1318
+Rollshut,Lucknow,Hazratganj,"Continental, Rolls, Street Food",4.0,1176
+Coastal Diner & Co,Surat,Katargam,"Seafood, Asian, Vegan, Mughlai",4.1,666
+Golden Cafe Co.,Lucknow,Indira Nagar,"Lebanese, Italian",2.8,1062
+Royal Treats & Co,Indore,Annapurna,"Sandwich, Italian, Burger",4.7,1923
+Curry Bar & Grill & Co,Kolkata,Salt Lake,"Italian, Mughlai",2.9,1310
+Heritage Sweets & Snacks & Co,Kochi,Fort Kochi,"Thai, Healthy Food, Mithai, South Asian",3.8,941
+Sunrise Corner,Kochi,Panampilly Nagar,Burger,4.9,1575
+Sai Grill House,Surat,Varachha,"Salads, Tandoor, Thai, Cafe",5.0,2247
+Cafe House,Mumbai,Lower Parel,Beverages,3.4,1698
+Cloud Kitchen Pure Veg,Hyderabad,Secunderabad,Andhra,3.1,927
+The Family Restaurant Non-Veg Special,Nagpur,Hingna,"Maharashtrian, Mughlai, Biryani, Salads",3.5,1465
+Cloud Bar & Grill & Co,Surat,Adajan,"South Asian, Street Food, South Indian, Kebab",4.4,1798
+Chili's,Hyderabad,Kukatpally,Burger,5.0,1360
+Biryani Junction Non-Veg Special,Mumbai,Powai,"Maharashtrian, Ice Cream, Rolls",3.8,1042
+Imperial Bar & Grill,Pune,Shivaji Nagar,"Maharashtrian, Hyderabadi, Healthy Food",3.2,615
+Star Family Restaurant Pure Veg,Indore,Bhawarkua,"Tandoor, Mithai",3.8,1637
+Coastal House Co.,Surat,Katargam,"Asian, Gujarati",3.1,371
+Krishna Lounge Multi-cuisine,Chennai,Egmore,"South Asian, Chinese",2.6,744
+Heritage Dhaba Non-Veg Special,Nagpur,Dharampeth,"North Indian, Desserts, Maharashtrian, Italian",3.8,1110
+Maharaja House,Chandigarh,Sector 15,"Andhra, South Asian, Mithai, Chinese",4.1,1052
+Spice Grill House,Pune,Viman Nagar,Tandoor,2.9,201
+Hotel Garden by Chef Raju,Delhi,Dwarka,"Desserts, Rolls, Salads, Maharashtrian",4.0,699
+Tasty Plaza,Bangalore,Koramangala,"South Asian, Finger Food",2.8,676
+Imperial Diner & Co,Ahmedabad,Bopal,"Italian, Tandoor",4.8,2109
+Heritage Junction Co.,Lucknow,Alambagh,"Ice Cream, Fast Food, Rolls, Gujarati",4.0,1562
+Social,Indore,Bhawarkua,"North Indian, Asian, Mughlai",4.7,1813
+Treat Treats,Surat,Athwa,"Vegan, Momos",4.2,1619
+Curry Kitchen & Co,Lucknow,Gomti Nagar,"Chinese, Finger Food, Bengali, Bakery",2.1,669
+Cafe Coffee Day,Indore,Sukhliya,"Salads, Healthy Food, Thai",4.4,1580
+Cafe Dhaba Pure Veg,Surat,Varachha,Desserts,4.3,1318
+Krishna Lounge,Nagpur,Hingna,"Mithai, Street Food, Sandwich",3.5,1274
+Treat Dhaba,Chandigarh,Sector 15,"Ice Cream, South Indian",4.1,1669
+Golden Tiffin Centre Pure Veg,Kochi,Aluva,"Maharashtrian, Street Food, Bakery",1.2,623
+The Belgian Waffle Co.,Ahmedabad,Satellite,"Gujarati, Sandwich",3.5,1869
+Green Eatery,Kolkata,Esplanade,South Asian,4.1,604
+Heritage Treats by Chef Raju,Indore,Rau,Bengali,3.9,1728
+Spice Diner,Delhi,Pitampura,"Kebab, South Indian",1.3,498
+Shree Grill House Non-Veg Special,Bangalore,Banashankari,"Finger Food, Pizza",4.4,1219
+Sunrise Bites & Co,Surat,City Light,"Bakery, Mithai",3.1,361
+Krishna Sweets,Lucknow,Hazratganj,"Finger Food, Andhra",0.4,107
+Annapurna Restaurant Pure Veg,Bangalore,Electronic City,"Bengali, Healthy Food, Finger Food, Fast Food",3.8,446
+Curry Bites,Indore,Geeta Bhawan,"Rajasthani, Kerala, Fast Food, South Asian",4.2,1006
+Green Restaurant,Kochi,Marine Drive,"Vegan, Finger Food, Lebanese",4.2,1834
+City Dhaba,Hyderabad,Ameerpet,"Kerala, Tandoor",4.6,1687
+Annapurna Dhaba by Chef Raju,Nagpur,Pratap Nagar,"Andhra, Momos, Bengali, Desserts",4.2,1046
+Barbeque Nation,Mumbai,Bandra West,"Bakery, Lebanese, Mughlai",4.0,2087
+Maharaja Family Restaurant Multi-cuisine,Chennai,Anna Nagar,Mexican,4.0,827
+Tandoor Point Co.,Chandigarh,Sector 43,Punjabi,4.5,1087
+Krishna Eatery Non-Veg Special,Surat,Varachha,Kebab,4.7,2219
+Sai Junction by Chef Raju,Delhi,Saket,"North Indian, Cafe, Desserts",4.0,832
+Café Mocha,Bangalore,Indiranagar,"Gujarati, Maharashtrian",3.8,1031
+Star Plaza,Hyderabad,Begumpet,Desserts,2.8,305
+Tandoor Eatery Pure Veg,Lucknow,Gomti Nagar,"Maharashtrian, Thai, Pizza, Healthy Food",2.5,227
+Tandoor Junction,Hyderabad,Himayatnagar,"Rajasthani, Kebab",1.4,617
+Hotel House,Pune,Hinjewadi,South Asian,4.3,676
+Big Hub,Kolkata,Rajarhat,"Italian, Rajasthani, Chinese",3.8,834
+Star Lounge,Nagpur,Ramdaspeth,"Mexican, Street Food, Rajasthani, South Indian",4.9,1482
+Barbeque Nation,Nagpur,Ramdaspeth,"Kerala, Finger Food",3.6,953
+South Indian House,Nagpur,Wardha Road,Healthy Food,4.1,1992
+Shree Tiffin Centre,Pune,Kothrud,"Fast Food, Desserts",3.2,471
+Natural Ice Cream,Surat,Vesu,"Asian, Finger Food, Tandoor, Vegan",3.4,1269
+Nando's,Bangalore,MG Road,"Thai, Finger Food, Mughlai",3.5,760
+Punjab Grill,Ahmedabad,Prahlad Nagar,"Italian, Continental, Vegan",4.0,1611
+Annapurna Kitchen Pure Veg,Chandigarh,Sector 43,"Andhra, Kebab",3.8,391
+Shree House,Ahmedabad,Satellite,"Chinese, Rolls",4.2,1921
+Punjab Grill,Jaipur,Sodala,"Gujarati, Maharashtrian, Hyderabadi",4.2,860
+Saravana Bhavan,Mumbai,Borivali,"Momos, Kebab, Desserts",3.4,870
+Curry Sweets & Snacks,Kochi,Vyttila,"Bakery, Kebab, Continental, Seafood",4.0,1734
+Shree Foods,Nagpur,Civil Lines,Kerala,3.9,837
+Cafe Grill House Pure Veg,Hyderabad,Gachibowli,"Burger, Bakery",2.8,312
+Imperial Express,Jaipur,Jagatpura,"Vegan, Bakery, Kebab",3.6,607
+Urban Foods Pure Veg,Nagpur,Khamla,Maharashtrian,3.5,1272
+Annapurna Diner Co.,Ahmedabad,Naranpura,"Seafood, Ice Cream",4.6,1273
+Heritage Grill House & Co,Lucknow,Vikas Nagar,"Healthy Food, Salads, Maharashtrian, Beverages",4.4,1554
+Baskin Robbins,Nagpur,Wardha Road,"Lebanese, Fast Food, Salads",4.5,853
+Imperial Express,Surat,City Light,"Continental, Burger, Tandoor, Punjabi",4.7,1151
+Tasty Restaurant by Chef Raju,Kolkata,Rajarhat,"South Indian, Andhra",4.7,2404
+Sagar Ratna,Surat,City Light,"Bakery, Ice Cream, Tandoor, Vegan",0.1,38
+Cloud Foods Express,Hyderabad,Madhapur,"Street Food, Mexican, Rolls, Seafood",2.6,888
+Spice Point Express,Lucknow,Vikas Nagar,Healthy Food,4.0,1471
+Krishna Sweets,Hyderabad,Secunderabad,"Asian, Maharashtrian",2.9,468
+Café Mocha,Jaipur,Tonk Road,Gujarati,4.5,980
+Treat Restaurant by Chef Raju,Chennai,Nungambakkam,"Fast Food, Finger Food",4.3,974
+Shree Tiffin Centre,Delhi,Dwarka,"Ice Cream, Cafe, Bakery, Italian",4.2,955
+Faasos,Hyderabad,Madhapur,Andhra,4.8,2142
+Royal Grill House,Nagpur,Hingna,"Mexican, Punjabi",4.5,875
+City Lounge Pure Veg,Hyderabad,Jubilee Hills,"Hyderabadi, Cafe, South Asian, Bengali",4.7,1824
+Golden Eatery Express,Surat,Vesu,"Mithai, Mexican",3.4,788
+Sunrise Sweets & Snacks Multi-cuisine,Lucknow,Mahanagar,"Tandoor, Punjabi",3.8,1754
+Krishna Kitchen,Chandigarh,Sector 15,"Bengali, Healthy Food, Beverages, South Indian",2.8,1098
+Punjab Grill,Delhi,Saket,"Gujarati, Asian, Chinese",4.0,2038
+Golden Spot,Chennai,Besant Nagar,"Rajasthani, Andhra, Thai",3.1,152
+Tasty Hub,Indore,Rajwada,"Momos, Tandoor, Pizza",5.0,1860
+Subway,Pune,Viman Nagar,"Cafe, Tandoor, Continental, Andhra",4.2,1451
+Hotel Cafe,Jaipur,Jagatpura,"Bengali, Healthy Food",3.0,411
+Giani's,Pune,Hadapsar,"Sandwich, Lebanese, Bakery",4.1,354
+Annapurna Point Non-Veg Special,Hyderabad,Secunderabad,"Maharashtrian, Asian, Italian, Bakery",4.9,1847
+Treat Bar & Grill Non-Veg Special,Ahmedabad,Prahlad Nagar,"Bakery, Kerala",3.9,402
+Urban House Co.,Jaipur,Vaishali Nagar,"Salads, Mexican, Continental",3.1,1548
+Sunrise Hub,Hyderabad,Gachibowli,"Finger Food, Desserts",2.9,966
+McDonald's,Nagpur,Khamla,Chinese,4.8,2014
+City Plaza,Lucknow,Indira Nagar,South Asian,4.6,1869
+Krishna Family Restaurant Multi-cuisine,Lucknow,Mahanagar,"Sandwich, Italian, Mughlai",2.8,1133
+Green House by Chef Raju,Ahmedabad,Vastrapur,"Rajasthani, Bakery, Bengali",3.9,874
+Nando's,Pune,Hadapsar,"Desserts, Fast Food",1.3,856
+Coastal Spot by Chef Raju,Pune,Hinjewadi,"Beverages, South Asian",5.0,2341
+Golden Lounge Non-Veg Special,Kochi,Fort Kochi,"Rolls, Pizza, Finger Food, Punjabi",1.2,1013
+The Dhaba Multi-cuisine,Chandigarh,Sector 9,"Momos, Bengali",4.3,855
+Punjabi Garden Non-Veg Special,Kolkata,Park Street,"Italian, Gujarati, Healthy Food",3.8,1368
+Spice Bar & Grill,Nagpur,Khamla,"Bengali, Hyderabadi, Lebanese, Desserts",3.0,1107
+Cafe Coffee Day,Jaipur,Malviya Nagar,"Ice Cream, Salads, Sandwich",2.8,459
+Tasty Plaza & Co,Chennai,Tambaram,"Healthy Food, Mithai, South Asian",4.2,1577
+Tandoor Dhaba Multi-cuisine,Nagpur,Sadar,"South Indian, Kebab, Ice Cream",3.2,1688
+Star Point,Chandigarh,Sector 7,"Desserts, Rolls, Chinese, Asian",4.8,762
+Green Eatery Co.,Delhi,Lajpat Nagar,"Healthy Food, Vegan, Ice Cream, Mughlai",4.2,1411
+Family Express Multi-cuisine,Jaipur,Tonk Road,"Cafe, Sandwich, Mithai",3.4,911
+South Indian Corner Non-Veg Special,Chandigarh,Sector 9,"Burger, Seafood, Mexican",4.2,2286
+Coastal Foods & Co,Chennai,Egmore,"Street Food, Asian, Mithai",3.6,1205
+Hotel Sweets & Snacks,Surat,City Light,"Tandoor, Momos, Ice Cream",3.0,855
+Green Dhaba Express,Kochi,Palarivattom,"Rolls, Mughlai",4.2,1470
+Chili's,Lucknow,Indira Nagar,"Ice Cream, Fast Food, Bakery",0.1,323
+Punjabi Grill House & Co,Kolkata,Tollygunge,"Mexican, Mughlai, Continental",4.1,1554
+Urban Eatery,Indore,Vijay Nagar,Rajasthani,4.4,1048
+Rollshut,Kochi,MG Road,Hyderabadi,3.2,1606
+Green Express Pure Veg,Jaipur,Civil Lines,"Biryani, Street Food, Hyderabadi",2.8,681
+Taco Bell,Indore,Rajwada,"Asian, Biryani, Cafe",4.1,1956
+Golden Lounge,Nagpur,Manish Nagar,Cafe,5.0,2007
+Saravana Bhavan,Vijayawada,"benz circle","Tandoor, Thai",4.8,2017
+Golden Lounge,Nagpur,Manish Nagar,Cafe,5.0,2007
+Saravana Bhavan,Vijayawada,"autonagar, Thai",4.8,2017
+Punjab Grill,vijayawada,"1 town","1 town, Street Food",3.8,1106
+Imperial Sweets & Snacks & Co,Lucknow,Jankipuram,Mexican,3.5,724
+Punjab Grill,Indore,Annapurna,"Mughlai, Street Food",3.8,1106
+Imperial Sweets & Snacks & Co,Lucknow,Jankipuram,Mexican,3.5,724
+Pind Balluchi,Bangalore,MG Road,"Maharashtrian, Lebanese, Ice Cream",4.3,1760
+Sunrise Restaurant Non-Veg Special,Surat,Athwa,"Salads, Bengali, Italian, Asian",2.4,1035
+Urban House Non-Veg Special,Pune,Shivaji Nagar,"Street Food, Pizza, Finger Food, South Asian",2.2,912
+Big Eatery Pure Veg,Surat,Adajan,Lebanese,3.8,518
+Annapurna Bistro Express,Kolkata,Howrah,Chinese,3.7,1050
+Golden Point,Jaipur,Malviya Nagar,"Maharashtrian, Cafe, Bakery",4.3,2292
+Coastal Lounge Multi-cuisine,Chennai,Mylapore,Mithai,2.7,323
+Green Foods Co.,Bangalore,BTM Layout,South Indian,5.0,2425
+South Indian Treats Pure Veg,Kolkata,Rajarhat,"Desserts, Thai, Biryani",4.8,2052
+Coastal Bites Co.,Delhi,Pitampura,"Italian, Fast Food",4.0,859
+South Indian Hub Co.,Pune,Koregaon Park,Bakery,3.9,963
+Sunrise Grill House,Nagpur,Khamla,"Rolls, Seafood, Desserts",5.0,1909
+Cloud Spot,Kolkata,Howrah,"Lebanese, South Asian, Mughlai, Punjabi",4.8,2475
+City Eatery,Surat,Katargam,"Gujarati, Cafe, Mithai",3.8,979
+Coastal Kitchen Non-Veg Special,Nagpur,Civil Lines,"Maharashtrian, Lebanese, Salads, Bakery",3.6,758
+Maharaja Garden,Chennai,Anna Nagar,"Mughlai, Thai",3.6,815
+Sai Spot,Nagpur,Dharampeth,"Ice Cream, Pizza",4.5,1400
+Punjabi Foods,Kochi,MG Road,"Rolls, Kebab, Pizza, Rajasthani",4.7,2011
+Cloud Tiffin Centre by Chef Raju,Surat,Varachha,"Momos, Bengali, Healthy Food",4.5,1255
+Cafe Bistro by Chef Raju,Surat,Nanpura,"Maharashtrian, Chinese, Asian",4.5,431
+Star Foods Multi-cuisine,Hyderabad,Kukatpally,"Desserts, Biryani, Hyderabadi",3.1,882
+Tandoor House & Co,Ahmedabad,Thaltej,"South Asian, Sandwich, Beverages, Punjabi",2.9,1433
+Cloud Tiffin Centre,Ahmedabad,Maninagar,Italian,4.8,1787
+Shree Tiffin Centre Co.,Surat,Adajan,Desserts,0.2,933
+Tandoor Plaza Pure Veg,Chennai,T Nagar,"South Indian, North Indian, Mithai, Lebanese",3.7,1164
+Hotel Bites Non-Veg Special,Indore,Bhawarkua,"Cafe, Fast Food, Salads, Desserts",3.1,1488
+Tasty Restaurant by Chef Raju,Hyderabad,Begumpet,"Sandwich, Asian, Rolls, Burger",3.3,169
+Cloud Point,Mumbai,Goregaon,Beverages,2.0,678
+Coastal Kitchen Co.,Chandigarh,Sector 22,"Asian, Ice Cream",3.2,662
+Royal Cafe by Chef Raju,Kochi,Palarivattom,Pizza,4.0,1983
+Star Treats Express,Kochi,Marine Drive,"Mithai, Hyderabadi, Gujarati, Bakery",4.4,1594
+Mainland China,Jaipur,Tonk Road,"Italian, Hyderabadi",4.0,1829
+Keventers,Surat,Ghod Dod Road,"South Asian, Burger, Punjabi, Lebanese",4.8,1511
+Golden Grill House Express,Lucknow,Vikas Nagar,"Rolls, Italian, Continental",3.2,622
+Spice Restaurant,Indore,Sukhliya,"Tandoor, Bengali, Thai",2.3,383
+Big Eatery,Kolkata,Tollygunge,Continental,3.5,809
+Chili's,Nagpur,Manish Nagar,"Continental, Lebanese, Rolls, Asian",3.9,1830
+New Point,Bangalore,Whitefield,Beverages,3.7,1190
+South Indian Foods,Ahmedabad,Satellite,"Kebab, Vegan, Biryani, Sandwich",2.4,13
+Tasty House Pure Veg,Kolkata,Garia,"Kerala, Kebab, Bakery",3.3,944
+Social,Ahmedabad,Paldi,"Mexican, South Asian, Asian",4.4,1497
+Coastal Spot Co.,Hyderabad,Secunderabad,"Lebanese, South Indian",4.8,1629
+Golden Eatery,Ahmedabad,Bopal,"Bakery, Seafood, Rolls, Momos",4.1,2117
+Pind Balluchi,Surat,Piplod,"Finger Food, Rajasthani, Mithai, Healthy Food",4.7,2523
+Treat Sweets & Snacks Non-Veg Special,Jaipur,Malviya Nagar,Fast Food,4.3,2028
+Social,Bangalore,Banashankari,"Kerala, Fast Food, North Indian",2.3,1045
+Biryani Spot Co.,Indore,Geeta Bhawan,"Bengali, Rajasthani, Sandwich, Finger Food",4.2,1052
+Chili's,Delhi,Lajpat Nagar,Street Food,4.5,1884
+Krishna Bistro Non-Veg Special,Chennai,Nungambakkam,"Punjabi, Ice Cream, Fast Food, Tandoor",4.3,1576
+Haldiram's,Mumbai,Malad,Hyderabadi,4.1,1524
+Cloud Cafe by Chef Raju,Kochi,Kakkanad,"Sandwich, Burger, Rajasthani, Cafe",2.9,1174
+Imperial Bistro Pure Veg,Kolkata,Park Street,"Gujarati, North Indian, Pizza, Thai",4.3,1387
+Cafe Bistro Pure Veg,Mumbai,Colaba,Momos,4.2,2016
+Sunrise Lounge Express,Lucknow,Aminabad,Punjabi,3.5,871
+Star Restaurant,Nagpur,Wardha Road,"Andhra, Street Food",3.1,475
+City Plaza,Chennai,Adyar,"Kerala, Cafe, South Asian, Mithai",4.2,1561
+Green Cafe by Chef Raju,Jaipur,Vaishali Nagar,"Vegan, Mughlai, Punjabi, North Indian",3.8,1109
+City Family Restaurant Pure Veg,Jaipur,Jagatpura,"Tandoor, South Asian, Beverages, Continental",4.0,1010
+Hotel Cafe Pure Veg,Delhi,Rajouri Garden,"Lebanese, Healthy Food, Street Food, Asian",2.5,751
+Heritage Hub Co.,Jaipur,Malviya Nagar,"Fast Food, Rolls, Seafood, Chinese",3.8,705
+South Indian Bistro Express,Ahmedabad,Satellite,"Vegan, Kerala, Beverages",4.1,840
+Cloud Corner Express,Surat,Adajan,"Andhra, Mexican",3.3,1311
+Chili's,Kochi,Marine Drive,Thai,4.5,629
+Shree Treats,Pune,Hinjewadi,"South Asian, Desserts, Asian, Thai",4.1,1619
+Annapurna Corner by Chef Raju,Mumbai,Bandra West,"South Asian, Andhra, Finger Food, North Indian",4.5,1790
+Biryani Garden,Indore,MG Road,"Pizza, Kerala, South Asian, Thai",3.4,997
+Natural Ice Cream,Jaipur,Sodala,"Mughlai, Chinese, Fast Food",4.1,864
+The Eatery Co.,Mumbai,Powai,"Seafood, Beverages",4.5,851
+Treat Family Restaurant,Lucknow,Aminabad,"Mughlai, Rajasthani",4.1,1747
+The Bistro Pure Veg,Kolkata,Salt Lake,Bakery,4.0,1782
+Shree Dhaba Multi-cuisine,Delhi,Connaught Place,"Ice Cream, Italian",3.1,293
+Hotel Bar & Grill Multi-cuisine,Mumbai,Borivali,"Desserts, Italian",3.9,417
+Curry Foods,Ahmedabad,Paldi,"Vegan, Tandoor, Pizza, Continental",4.6,657
+City House,Chandigarh,Sector 15,"Thai, Continental",3.1,982
+Tandoor Junction Co.,Surat,Adajan,"Rajasthani, Mexican",4.1,1485
+Curry Plaza,Kolkata,Salt Lake,Bengali,4.8,1217
+Cloud Family Restaurant,Nagpur,Khamla,"Italian, South Indian, Finger Food, North Indian",3.2,186
+Curry Sweets & Snacks Non-Veg Special,Surat,Piplod,"Kerala, Rajasthani, Continental, Mithai",3.9,856
+Box8,Mumbai,Malad,"Mithai, Andhra",3.6,903
+Maharaja Treats,Hyderabad,Secunderabad,"Continental, Kerala",2.5,112
+Cafe Coffee Day,Hyderabad,Gachibowli,Beverages,3.9,1638
+Cafe Coffee Day,Jaipur,Bani Park,"Street Food, South Indian, Hyderabadi",4.4,1695
+Star Tiffin Centre,Mumbai,Malad,"Sandwich, Healthy Food, Bengali, Mughlai",3.9,1223
+Spice Spot,Chennai,Adyar,Burger,4.3,183
+Family Garden Multi-cuisine,Nagpur,Sadar,"Cafe, Chinese",4.0,2029
+Coastal Foods by Chef Raju,Pune,Kothrud,"Italian, Asian, Bengali",2.5,107
+Royal Lounge,Bangalore,Jayanagar,"Mexican, Seafood, Andhra, Continental",4.0,842
+Hotel Foods Express,Pune,Aundh,"Sandwich, Bengali",4.0,1232
+South Indian Bar & Grill,Indore,Geeta Bhawan,"South Indian, Burger, Mithai, Punjabi",4.1,1234
+Tasty Foods & Co,Chennai,T Nagar,Pizza,3.9,1269
+Green Sweets & Snacks & Co,Ahmedabad,Navrangpura,Chinese,4.7,2125
+Annapurna Restaurant Express,Indore,Rau,Healthy Food,2.7,243
+Cafe Coffee Day,Chandigarh,Manimajra,"Mexican, Momos",4.5,1572
+Golden Bistro,Chennai,Egmore,Desserts,2.4,954
+Krishna Sweets,Chennai,Mylapore,"Tandoor, Seafood",3.8,408
+Biryani Plaza,Bangalore,HSR Layout,"Andhra, Desserts",2.2,728
+Bikanervala,Kolkata,Rajarhat,"Cafe, South Indian, Rajasthani",4.5,2364
+Krishna Bar & Grill,Pune,Viman Nagar,Mughlai,4.4,793
+Curry Tiffin Centre,Pune,Wakad,"Italian, South Indian, Biryani",4.6,1321
+Costa Coffee,Mumbai,Borivali,Beverages,4.7,1892
+City Cafe by Chef Raju,Ahmedabad,Navrangpura,"Cafe, Thai",3.2,211
+Curry Junction Pure Veg,Chandigarh,Manimajra,"Lebanese, Ice Cream, Mughlai, Continental",3.2,991
+Krishna Hub,Pune,Camp,"Punjabi, Ice Cream, Mithai, South Asian",3.4,1594
+The House Express,Chennai,Mylapore,"South Indian, Thai",1.5,1084
+Urban Dhaba Co.,Chennai,Tambaram,"Thai, Mithai",4.4,652
+Shree Cafe,Chandigarh,Sector 15,"Finger Food, Andhra",4.4,2185
+Krishna Sweets,Kochi,Aluva,"Asian, Biryani",4.5,2218
+Golden Kitchen Co.,Hyderabad,Gachibowli,"South Indian, Salads",3.8,917
+Urban House,Surat,City Light,Desserts,4.0,519
+Golden Garden,Nagpur,Hingna,"Finger Food, Fast Food, Hyderabadi, Seafood",3.4,1083
+Urban Sweets & Snacks Non-Veg Special,Surat,Nanpura,"Burger, Finger Food, Cafe",3.6,1433
+Biryani Spot Multi-cuisine,Bangalore,Whitefield,Cafe,4.0,1466
+Natural Ice Cream,Lucknow,Vikas Nagar,"Hyderabadi, Italian",3.1,569
+Tandoor Tiffin Centre by Chef Raju,Lucknow,Gomti Nagar,"North Indian, Momos, Pizza, Rolls",4.2,1218
+Royal Lounge Pure Veg,Surat,Vesu,"Beverages, Maharashtrian, South Asian, Gujarati",3.5,641
+Star Tiffin Centre,Nagpur,Pratap Nagar,"Beverages, Tandoor",1.9,603
+Spice Restaurant by Chef Raju,Delhi,Dwarka,"Gujarati, Beverages",4.3,1288
+Imperial Point,Chennai,Tambaram,"Beverages, Kebab, Kerala, Mughlai",2.3,389
+Annapurna Hub & Co,Kolkata,Rajarhat,"Seafood, Rolls, Fast Food",1.3,1125
+Punjab Grill,Nagpur,Pratap Nagar,Kerala,2.1,983
+Wow! Momo,Pune,Viman Nagar,"Continental, Ice Cream, Street Food",3.3,1329
+The Belgian Waffle Co.,Ahmedabad,Bopal,"Cafe, Bengali, Gujarati, Tandoor",1.1,952
+Star Kitchen,Hyderabad,Madhapur,Continental,4.2,1873
+Royal Lounge Non-Veg Special,Surat,Udhna,"Mithai, Ice Cream, Asian, Rolls",3.8,977
+Imperial Express Express,Kochi,MG Road,"Street Food, Tandoor",2.9,521
+Mainland China,Surat,Athwa,Kerala,3.0,648
+Coastal Foods,Nagpur,Khamla,Gujarati,4.0,1589
+Coastal Bites Express,Nagpur,Wardha Road,"Street Food, Maharashtrian, Desserts, Asian",4.0,444
+Maharaja Hub by Chef Raju,Chandigarh,Sector 22,"Momos, Gujarati, South Asian, Asian",4.1,492
+Pind Balluchi,Hyderabad,Secunderabad,"Chinese, Rajasthani, Hyderabadi, Rolls",1.3,550
+Bikanervala,Kochi,Vyttila,"Thai, South Asian, Fast Food",4.9,954
+Cafe Corner Multi-cuisine,Hyderabad,Ameerpet,Biryani,3.8,1597
+Shree Kitchen Non-Veg Special,Surat,Katargam,"Italian, Seafood",4.2,1064
+The Cafe Co.,Surat,Katargam,"Mughlai, Rolls",0.8,738
+Shree Diner Non-Veg Special,Indore,Palasia,"Street Food, South Indian, Rolls, Bengali",3.8,1020
+Treat Garden,Nagpur,Pratap Nagar,"Continental, Mexican, South Indian",3.6,1408
+Curry Treats,Surat,Athwa,"Thai, Maharashtrian",3.9,1065
+Sunrise Bites Co.,Ahmedabad,Maninagar,"Kebab, Seafood, Thai",3.7,1236
+Hotel Family Restaurant Non-Veg Special,Ahmedabad,Bopal,"Finger Food, Fast Food, North Indian, Healthy Food",5.0,2231
+Hotel Family Restaurant,Lucknow,Vikas Nagar,"Italian, Hyderabadi, Thai, Andhra",4.5,1245
+South Indian Kitchen Express,Pune,Hinjewadi,"Andhra, Bakery, South Indian, South Asian",5.0,1644
+Star Sweets & Snacks Express,Kolkata,Behala,"Hyderabadi, Burger",4.2,2169
+Maharaja Cafe,Kochi,Vyttila,"Mexican, Fast Food",3.8,1552
+Imperial House,Surat,City Light,Burger,3.5,1225
+Star Junction Pure Veg,Surat,Ghod Dod Road,Ice Cream,1.4,1195
+Faasos,Chandigarh,Manimajra,Gujarati,3.9,772
+Faasos,Nagpur,Civil Lines,"Maharashtrian, Asian, Sandwich",2.8,603
+Curry Cafe by Chef Raju,Surat,Vesu,North Indian,3.8,688
+Sai Grill House,Chandigarh,Sector 35,"Vegan, Kerala",4.1,1618
+The Belgian Waffle Co.,Ahmedabad,C G Road,"Bengali, North Indian",4.6,1635
+South Indian Treats by Chef Raju,Delhi,Connaught Place,"Bakery, Fast Food, Gujarati",3.9,850
+Hotel Diner Non-Veg Special,Mumbai,Andheri West,"Kerala, Bakery, Hyderabadi",5.0,2112
+Social,Surat,Athwa,Burger,3.0,524
+Urban Dhaba by Chef Raju,Indore,Vijay Nagar,Gujarati,4.5,1717
+Royal Family Restaurant,Chandigarh,Sector 17,Mughlai,4.2,1718
+Family Sweets & Snacks,Kolkata,Salt Lake,"North Indian, Seafood",3.7,1248
+Green Eatery,Hyderabad,Himayatnagar,Mexican,2.5,1019
+New Express Co.,Pune,Shivaji Nagar,"Maharashtrian, Mexican, Beverages",1.0,425
+The Bites,Indore,MG Road,Street Food,4.5,2481
+Golden Foods,Bangalore,Koramangala,"Burger, Sandwich, Mexican",3.2,274
+Maharaja Junction by Chef Raju,Nagpur,Civil Lines,"Kerala, Street Food, Fast Food",4.5,211
+Urban House by Chef Raju,Nagpur,Civil Lines,"Vegan, Thai, Continental, Bengali",4.4,683
+New Lounge Pure Veg,Kolkata,Behala,"Beverages, Street Food, Bakery, Mughlai",5.0,744
+Star Family Restaurant Pure Veg,Kolkata,Esplanade,"Vegan, Gujarati",4.4,1343
+Family Dhaba Multi-cuisine,Nagpur,Civil Lines,"Chinese, Italian, Momos, Andhra",0.3,1074
+South Indian Family Restaurant by Chef Raju,Surat,Udhna,Kerala,4.2,1502
+Giani's,Chennai,Mylapore,North Indian,4.1,1371
+Maharaja Cafe,Nagpur,Pratap Nagar,"Andhra, Rolls, Hyderabadi, Thai",1.3,1127
+South Indian Restaurant Pure Veg,Lucknow,Alambagh,"Asian, Tandoor, Continental, South Asian",3.8,1240
+Chili's,Indore,Vijay Nagar,Lebanese,4.0,837
+Curry Family Restaurant Pure Veg,Kochi,Palarivattom,"Bengali, Mughlai, Burger",4.5,1925
+Biryani Family Restaurant by Chef Raju,Surat,Udhna,"Street Food, Fast Food, Burger, North Indian",3.4,1225
+Spice Kitchen,Jaipur,Jagatpura,"Bakery, Maharashtrian, Fast Food, Momos",4.1,634
+Shree Bistro by Chef Raju,Kochi,Panampilly Nagar,Maharashtrian,1.2,252
+Star Express,Surat,Nanpura,"North Indian, Salads, Mughlai, Lebanese",4.8,2481
+Coastal Cafe Express,Kochi,Palarivattom,"Bakery, Fast Food",3.6,1389
+Sunrise Sweets & Snacks Co.,Jaipur,Raja Park,"Rajasthani, Hyderabadi, Mexican",3.8,523
+Annapurna Express & Co,Kolkata,Esplanade,"Lebanese, Pizza, Biryani",3.0,985
+Green Sweets & Snacks,Lucknow,Aminabad,"Healthy Food, Mithai",4.2,882
+Star Spot,Surat,Ghod Dod Road,"Mithai, Mexican, Kerala, North Indian",3.9,885
+Punjabi Corner,Bangalore,Indiranagar,"Momos, Desserts, Mughlai",4.2,1015
+Nando's,Surat,Katargam,Vegan,4.5,1709
+Big Sweets & Snacks & Co,Indore,Geeta Bhawan,Gujarati,3.6,1466
+Mad Over Donuts,Jaipur,Malviya Nagar,"Vegan, Tandoor",4.4,2079
+Sunrise Bistro Co.,Surat,Udhna,"Tandoor, Cafe, Italian",2.9,1142
+Keventers,Mumbai,Goregaon,"Bakery, Beverages, Finger Food",4.5,786
+Wendy's,Ahmedabad,Maninagar,Vegan,4.5,1720
+Golden Sweets & Snacks by Chef Raju,Surat,Udhna,"Cafe, Salads",1.8,326
+Golden Garden Co.,Kolkata,Rajarhat,"Hyderabadi, Bengali",3.3,1632
+Curry Bites,Ahmedabad,Thaltej,"Tandoor, Rolls, Vegan",4.7,738
+Krishna Dhaba Multi-cuisine,Lucknow,Aminabad,"Mithai, Mexican, South Indian",4.7,2005
+Royal Junction,Surat,Katargam,"Andhra, Healthy Food",2.0,342
+Curry Restaurant Co.,Surat,Katargam,"Kerala, Fast Food",3.0,1275
+Green Bites Pure Veg,Lucknow,Gomti Nagar,"Chinese, Continental, Italian",1.4,1142
+Coastal Corner Multi-cuisine,Mumbai,Thane West,"Tandoor, Rajasthani, Kerala, Andhra",0.4,242
+Sunrise Restaurant Express,Jaipur,Malviya Nagar,Italian,3.5,781
+Hotel Grill House Pure Veg,Hyderabad,Kondapur,"Rajasthani, South Indian, Ice Cream, Beverages",3.9,1064
+Curry Bar & Grill & Co,Surat,Katargam,"North Indian, Lebanese, Desserts",2.6,1177
+Golden Junction Co.,Chandigarh,Sector 15,"Pizza, Maharashtrian, Healthy Food",2.8,523
+Urban Family Restaurant Express,Chandigarh,Sector 26,Lebanese,3.8,944
+Punjabi Foods Express,Hyderabad,Jubilee Hills,"Hyderabadi, Punjabi, Bakery, Rolls",2.3,142
+Heritage House Express,Kochi,Kakkanad,"Finger Food, Desserts, Asian",4.0,1436
+Krishna Treats,Bangalore,Indiranagar,"Thai, Bengali, Bakery, Hyderabadi",4.5,1958
+Spice Cafe,Chennai,Nungambakkam,Thai,4.5,1489
+Curry Restaurant,Pune,Aundh,Healthy Food,4.1,2217
+Royal Hub & Co,Kolkata,Esplanade,"Desserts, Bengali, Rajasthani, Burger",4.6,1966
+Golden Lounge by Chef Raju,Bangalore,MG Road,Rolls,4.5,1695
+Wow! Momo,Surat,Katargam,"Asian, Desserts",4.3,1715
+South Indian Restaurant & Co,Delhi,Hauz Khas,"Burger, Chinese, Pizza",3.9,1380
+Royal Tiffin Centre by Chef Raju,Ahmedabad,Prahlad Nagar,Salads,4.1,1067
+Tasty Tiffin Centre Multi-cuisine,Chandigarh,Sector 43,"Finger Food, Italian, Salads",3.1,1223
+Treat Point Pure Veg,Kolkata,Garia,Healthy Food,4.5,1339
+New Bistro,Pune,Viman Nagar,"Beverages, Bengali",4.0,727
+Family Family Restaurant Pure Veg,Kolkata,Garia,"Pizza, Finger Food, Beverages, Maharashtrian",0.5,261
+Five Star Chicken,Chandigarh,Manimajra,Asian,2.8,594
+Tasty Plaza Express,Kochi,Edappally,Mexican,4.8,1542
+Urban Treats Multi-cuisine,Chandigarh,Sector 9,"Finger Food, Cafe",4.1,1457
+Sunrise Spot,Bangalore,Marathahalli,"Gujarati, Bakery",2.4,1070
+Shree Bar & Grill Express,Nagpur,Hingna,Cafe,3.8,961
+Spice Restaurant Pure Veg,Kochi,Palarivattom,"Kebab, Mithai",4.4,2296
+Royal Sweets & Snacks Non-Veg Special,Jaipur,Raja Park,"Burger, Ice Cream, Gujarati, Punjabi",4.0,2323
+Baskin Robbins,Mumbai,Goregaon,"Continental, Mexican",4.0,1745
+Domino's Pizza,Hyderabad,Madhapur,Salads,0.1,420
+Spice Bar & Grill Multi-cuisine,Indore,Rau,"Momos, Mithai, Kerala",4.0,1578
+City Hub Non-Veg Special,Lucknow,Alambagh,"Cafe, Bengali, Lebanese, Ice Cream",3.1,1401
+Maharaja Family Restaurant,Chennai,Mylapore,"Tandoor, Beverages",2.3,820
+Sunrise Sweets & Snacks,Surat,Ghod Dod Road,Beverages,3.6,781
+Family Plaza Multi-cuisine,Surat,Vesu,Italian,3.2,463
+Coastal Lounge Express,Chandigarh,Sector 17,"Kebab, Mughlai, Cafe",4.1,819
+Royal Plaza Non-Veg Special,Pune,Camp,"Vegan, Beverages",4.2,1199
+Golden Corner Multi-cuisine,Lucknow,Hazratganj,"Rajasthani, Finger Food, Biryani",3.9,1218
+Annapurna Hub Express,Kochi,Marine Drive,"Punjabi, Thai, Burger",4.1,1329
+New Cafe Multi-cuisine,Kochi,Panampilly Nagar,Lebanese,1.9,696
+Imperial Hub Express,Mumbai,Colaba,"Tandoor, Gujarati, Asian",3.8,1083
+Imperial Spot,Surat,Nanpura,"Street Food, Momos, Italian, Gujarati",4.1,909
+Treat Express Non-Veg Special,Surat,Ghod Dod Road,Momos,3.1,904
+Behrouz Biryani,Lucknow,Aminabad,"Andhra, Punjabi, Pizza, Asian",3.2,913
+South Indian Corner Co.,Ahmedabad,Vastrapur,"Biryani, Rolls",4.5,1147
+Burger King,Surat,Vesu,"Vegan, North Indian, Mithai, Chinese",4.5,1505
+Family Cafe Non-Veg Special,Ahmedabad,Naranpura,"Rajasthani, Burger, Asian",2.7,983
+Krishna Sweets,Ahmedabad,Thaltej,"Cafe, Sandwich, Street Food, Salads",3.8,998
+Spice House by Chef Raju,Delhi,Hauz Khas,"Cafe, Lebanese, Momos",3.1,1021
+Punjabi Eatery by Chef Raju,Chennai,Adyar,"Rajasthani, Thai, Tandoor",2.9,1252
+Annapurna Corner Co.,Lucknow,Indira Nagar,"Gujarati, Biryani, Desserts, Ice Cream",4.4,1300
+Maharaja Tiffin Centre Non-Veg Special,Ahmedabad,Maninagar,"South Asian, Seafood, Momos",4.0,1043
+Royal Bistro & Co,Kolkata,Salt Lake,"Fast Food, Tandoor, Hyderabadi, Momos",3.5,1764
+City Dhaba by Chef Raju,Kochi,Fort Kochi,"Asian, Mithai",2.9,863
+Annapurna Diner,Chennai,Porur,"Vegan, Mexican, Sandwich, Desserts",4.5,2100
+Maharaja Restaurant,Kolkata,Esplanade,"Hyderabadi, Burger",3.3,1170
+Tasty Corner Pure Veg,Indore,Bhawarkua,"Finger Food, Salads, Tandoor",3.7,332
+Annapurna Sweets & Snacks,Bangalore,Jayanagar,"Beverages, Rajasthani",2.3,969
+Social,Jaipur,Malviya Nagar,Fast Food,3.2,318
+South Indian Foods & Co,Lucknow,Alambagh,"Bakery, Salads, Beverages, South Indian",0.9,666
+Maharaja Hub & Co,Nagpur,Pratap Nagar,"Bakery, Mithai, Cafe, Finger Food",4.0,2199
+Cloud Junction by Chef Raju,Kolkata,Rajarhat,"Mithai, Burger, Continental, Tandoor",3.3,909
+Café Mocha,Bangalore,HSR Layout,"Punjabi, Mexican",3.8,1082
+Sai Eatery & Co,Surat,Nanpura,"North Indian, Lebanese",3.5,1619
+Biryani Foods,Kolkata,Behala,"Gujarati, Burger, Momos, Continental",3.7,1412
+Tandoor Corner & Co,Surat,Udhna,"Maharashtrian, Biryani, Italian",2.9,364
+New Sweets & Snacks Express,Lucknow,Rajajipuram,"Biryani, Andhra, South Indian, Desserts",1.3,45
+Green Sweets & Snacks Pure Veg,Bangalore,Koramangala,Burger,2.1,1010
+Krishna Point by Chef Raju,Pune,Kothrud,"Chinese, Hyderabadi, Continental, Desserts",1.4,146
+Imperial Corner Multi-cuisine,Jaipur,Civil Lines,Street Food,4.9,2383
+Royal Bistro Pure Veg,Kolkata,Tollygunge,Salads,4.2,1415
+Urban Tiffin Centre,Kolkata,Howrah,Momos,3.8,867
+Punjabi Dhaba Co.,Chennai,T Nagar,"Andhra, North Indian, Beverages, Thai",4.0,1179
+Biryani Point Express,Delhi,Connaught Place,"Bengali, Continental",3.1,523
+Sai Tiffin Centre,Lucknow,Vikas Nagar,Punjabi,4.1,2326
+Chai Point,Surat,Vesu,"Lebanese, Punjabi, Tandoor",4.3,900
+Royal Point Pure Veg,Chennai,Adyar,"Mithai, South Asian, Biryani",4.0,1621
+Shree Plaza Non-Veg Special,Chennai,Egmore,"Italian, Salads",2.8,644
+Sai Tiffin Centre Non-Veg Special,Jaipur,Tonk Road,"Cafe, South Indian, Vegan, Bengali",4.4,1214
+Cloud Lounge Co.,Indore,Sapna Sangeeta,"Lebanese, Desserts, Vegan, Mexican",3.4,1294
+Golden Kitchen,Mumbai,Bandra West,"Chinese, Biryani",2.4,202
+Tasty Family Restaurant Pure Veg,Delhi,Janakpuri,"Mughlai, Bengali, Burger",4.1,221
+Coastal Restaurant Pure Veg,Kochi,Kakkanad,Bengali,4.0,1467
+New Express,Surat,Adajan,Seafood,2.0,1063
+Cloud Lounge Co.,Mumbai,Bandra West,"Salads, Rolls",4.0,1492
+Spice Grill House,Indore,Geeta Bhawan,"Sandwich, Kerala, Fast Food",2.9,1219
+Urban Hub Express,Kolkata,Rajarhat,"Punjabi, Andhra, Lebanese, Bengali",3.7,1718
+Star Hub Co.,Nagpur,Ramdaspeth,"Lebanese, Momos, Bengali, Tandoor",3.8,592
+Sunrise Bites Non-Veg Special,Indore,Vijay Nagar,"Seafood, North Indian",3.3,660
+Keventers,Nagpur,Ramdaspeth,"Fast Food, Chinese",3.8,554
+South Indian Treats & Co,Hyderabad,Begumpet,"Continental, Asian, Rajasthani",4.0,566
+Urban Point Express,Indore,Rau,Kebab,4.1,1320
+Coastal Grill House by Chef Raju,Kolkata,Salt Lake,"Kerala, Maharashtrian, Street Food",4.5,587
+Café Mocha,Lucknow,Alambagh,Andhra,3.9,953
+Social,Jaipur,Mansarovar,"Kebab, Asian, Healthy Food, Continental",3.0,980
+Family Spot,Bangalore,Whitefield,"Momos, Continental, Rajasthani, Healthy Food",3.7,1183
+Punjabi Point Multi-cuisine,Surat,City Light,"Lebanese, Vegan",5.0,1969
+City House,Pune,Viman Nagar,Street Food,4.2,1569
+Sunrise Tiffin Centre,Chennai,Velachery,"Beverages, Punjabi, Vegan",4.4,1251
+South Indian Bistro,Ahmedabad,Navrangpura,"Desserts, Continental, Street Food",4.3,838
+Haldiram's,Nagpur,Wardha Road,"Tandoor, Ice Cream, South Indian",3.4,973
+New Hub Pure Veg,Pune,Camp,"South Indian, Gujarati",4.0,2171
+Sagar Ratna,Delhi,Rajouri Garden,"Vegan, Thai",1.4,17
+Tandoor Family Restaurant by Chef Raju,Mumbai,Goregaon,South Indian,3.3,1362
+Biryani Dhaba by Chef Raju,Pune,Wakad,"Kebab, Mithai, Continental, Cafe",3.0,1407
+Café Mocha,Kochi,MG Road,"Hyderabadi, South Asian, Rajasthani",4.3,832
+Hotel Treats Non-Veg Special,Lucknow,Aminabad,"Mughlai, Momos, Gujarati",4.6,1304
+Social,Hyderabad,Madhapur,"Continental, Gujarati",3.9,1506
+City Junction Express,Kolkata,New Town,"Tandoor, Mithai, Bakery",3.0,1284
+Hotel Sweets & Snacks Non-Veg Special,Jaipur,Mansarovar,"Kerala, Desserts",4.1,1327
+Annapurna Dhaba,Chennai,Anna Nagar,"Desserts, South Indian, Andhra",4.5,1788
+Shree Tiffin Centre & Co,Hyderabad,Ameerpet,"Biryani, Fast Food",2.7,561
+Sunrise Treats Co.,Chandigarh,Manimajra,Punjabi,2.0,274
+Curry Garden,Jaipur,Sodala,"South Asian, Ice Cream, Bakery, Beverages",2.9,869
+City Treats,Surat,Adajan,"Pizza, Italian",2.9,1202
+Imperial Treats Multi-cuisine,Indore,Rau,"Chinese, Kebab, Gujarati, Andhra",3.6,1796
+Heritage Diner,Jaipur,Malviya Nagar,"Salads, Mithai",3.6,1241
+Royal Bistro & Co,Kolkata,Rajarhat,"Rajasthani, Seafood, Mexican, Sandwich",2.9,251
+Heritage Tiffin Centre Pure Veg,Indore,Geeta Bhawan,Healthy Food,2.5,1119
+Heritage Bites,Bangalore,Electronic City,"Finger Food, Biryani, Sandwich, Continental",3.1,789
+Nando's,Indore,Sapna Sangeeta,"Continental, Salads, Gujarati",4.3,1358
+Sai Cafe by Chef Raju,Kolkata,Rajarhat,"Beverages, Desserts",2.9,416
+Sai Diner & Co,Kolkata,Howrah,"Street Food, Bakery",4.9,645
+Family Hub,Delhi,Lajpat Nagar,"Rolls, Pizza, Finger Food, Ice Cream",3.8,814
+Giani's,Chandigarh,Manimajra,"Vegan, Lebanese, Pizza",1.3,112
+KFC,Lucknow,Aminabad,"Hyderabadi, Continental, Mughlai",2.4,330
+Biryani Sweets & Snacks Express,Lucknow,Mahanagar,"Sandwich, Finger Food",3.5,276
+Imperial Lounge,Surat,Varachha,"Lebanese, Italian, Mexican, Ice Cream",2.7,714
+Punjabi Sweets & Snacks Co.,Chennai,Porur,Fast Food,4.0,2124
+Sunrise Sweets & Snacks & Co,Mumbai,Lower Parel,"Kebab, Andhra, Momos, Salads",4.0,1756
+Family Express,Kochi,Edappally,"South Asian, Cafe, Vegan, Burger",4.2,424
+Krishna Dhaba Co.,Mumbai,Andheri West,"Maharashtrian, Chinese, Hyderabadi, Punjabi",4.0,1487
+New Restaurant & Co,Delhi,Hauz Khas,"Healthy Food, Lebanese, Andhra",4.3,980
+Sunrise Bites,Chennai,Mylapore,"Hyderabadi, Ice Cream",4.7,467
+Imperial Hub by Chef Raju,Ahmedabad,Maninagar,"Maharashtrian, Mughlai, Salads, Seafood",4.0,1762
+Rollshut,Jaipur,Jagatpura,"Punjabi, Italian, Desserts",3.2,750
+Star Plaza Multi-cuisine,Kolkata,Rajarhat,"Kebab, Street Food",4.5,1374
+Golden Point Co.,Indore,Vijay Nagar,"Tandoor, Seafood, Pizza",3.9,549
+Coastal Restaurant Pure Veg,Chennai,T Nagar,Ice Cream,4.6,823
+Big Junction by Chef Raju,Chennai,Egmore,"Fast Food, Salads",4.2,734
+Biryani Express,Indore,Vijay Nagar,Seafood,4.8,1909
+Spice Express,Chennai,Egmore,"South Indian, Asian, Seafood",4.1,1079
+Cloud House Pure Veg,Pune,Baner,Thai,2.8,332
+Spice Bistro Non-Veg Special,Delhi,Janakpuri,"Lebanese, Andhra, Thai",2.8,811
+Bikanervala,Chandigarh,Sector 7,"Mithai, Tandoor, Mughlai",2.7,209
+Mainland China,Mumbai,Goregaon,"Cafe, Kebab, Finger Food, Tandoor",4.1,1270
+Tandoor Hub,Nagpur,Sitabuldi,"Asian, Bakery, Continental, Sandwich",2.2,953
+Green Plaza & Co,Ahmedabad,Vastrapur,"Rajasthani, Cafe, Hyderabadi",4.4,1653
+Haldiram's,Ahmedabad,Navrangpura,"Ice Cream, Sandwich, Beverages",3.2,1460
+Barbeque Nation,Bangalore,BTM Layout,"Lebanese, Italian, Seafood",3.9,1490
+Urban Point Multi-cuisine,Pune,Shivaji Nagar,Hyderabadi,3.0,1262
+Cafe Hub Co.,Surat,Piplod,"Italian, Asian",4.5,1282
+Nando's,Chennai,Porur,"Seafood, Rajasthani",1.8,776
+Royal Restaurant Co.,Chennai,Egmore,"Finger Food, North Indian",4.3,1611
+Sunrise Spot Pure Veg,Ahmedabad,Thaltej,"Pizza, Andhra",3.3,1219
+Coastal Garden,Kochi,Panampilly Nagar,Vegan,5.0,1418
+Giani's,Nagpur,Wardha Road,North Indian,4.2,932
+South Indian Eatery Express,Nagpur,Wardha Road,"Andhra, Gujarati, Rajasthani, Kerala",3.9,1374
+Tasty Garden Multi-cuisine,Ahmedabad,Maninagar,"Mexican, Bakery",2.7,56
+Green Restaurant,Bangalore,MG Road,"Sandwich, Kebab, Kerala, Vegan",2.9,1096
+South Indian Cafe Multi-cuisine,Jaipur,Civil Lines,Asian,3.9,1601
+Coastal Hub Express,Indore,Geeta Bhawan,"Chinese, Asian, Ice Cream",4.2,1468
+Café Mocha,Ahmedabad,Satellite,"Sandwich, Salads, Continental",3.9,1124
+Tandoor Family Restaurant,Pune,Hadapsar,"Vegan, Mughlai, Hyderabadi",3.9,1045
+Star Foods by Chef Raju,Ahmedabad,Thaltej,"Punjabi, Mexican, Beverages, Chinese",4.2,1745
+Curry Point Express,Indore,Annapurna,"Asian, Mughlai",4.1,611
+Five Star Chicken,Hyderabad,Ameerpet,Thai,3.1,983
+Haldiram's,Hyderabad,Kondapur,"Finger Food, Desserts",4.1,1043
+Krishna Express,Hyderabad,Madhapur,"Continental, Desserts, Kebab",4.8,1491
+South Indian Family Restaurant Pure Veg,Surat,Piplod,"Pizza, Asian",4.3,836
+Spice Kitchen,Lucknow,Mahanagar,"Rajasthani, Ice Cream, Seafood, Mithai",3.1,1247
+Mainland China,Ahmedabad,Bopal,Mexican,4.7,1901
+Tandoor Kitchen,Lucknow,Aminabad,"Kerala, Vegan, Thai",3.4,491
+Sai Family Restaurant Co.,Hyderabad,Himayatnagar,"Salads, Hyderabadi",4.2,1038
+Shree Restaurant,Jaipur,Malviya Nagar,"Fast Food, Salads, Tandoor, Punjabi",3.0,685
+Burger King,Pune,Koregaon Park,Kebab,4.1,684
+Pind Balluchi,Indore,Sapna Sangeeta,"Gujarati, Asian",4.4,681
+Heritage Family Restaurant,Indore,Rajwada,"Thai, Kerala, Andhra, Momos",2.8,604
+Cafe Kitchen & Co,Surat,Adajan,"Cafe, Tandoor, Italian",3.8,1135
+The Belgian Waffle Co.,Bangalore,MG Road,"Pizza, Vegan, Fast Food, Tandoor",4.2,334
+New Grill House Pure Veg,Mumbai,Bandra West,South Asian,2.8,212
+New Bar & Grill by Chef Raju,Kochi,MG Road,"Asian, North Indian, Healthy Food, South Asian",3.8,744
+Baskin Robbins,Jaipur,Mansarovar,Asian,3.9,1265
+Curry Tiffin Centre,Lucknow,Mahanagar,"Mithai, Hyderabadi, Continental",4.5,1107
+Saravana Bhavan,Bangalore,BTM Layout,"Seafood, Gujarati",4.6,2194
+Heritage Foods Co.,Ahmedabad,Satellite,"Chinese, Biryani",0.6,488
+The Belgian Waffle Co.,Ahmedabad,C G Road,"South Asian, Mithai, Tandoor",4.9,233
+Annapurna Kitchen Multi-cuisine,Chennai,T Nagar,Pizza,4.4,2463
+Biryani Blues,Ahmedabad,Thaltej,"Italian, Chinese",4.3,1029
+Cafe Coffee Day,Ahmedabad,Naranpura,Cafe,4.1,781
+Biryani Blues,Ahmedabad,Naranpura,Fast Food,2.5,451
+Krishna Foods,Mumbai,Juhu,"Andhra, Street Food, Asian, Mithai",2.8,173
+Spice Corner,Chandigarh,Sector 35,"Beverages, Bengali, Lebanese, Tandoor",3.1,470
+Curry Plaza Multi-cuisine,Bangalore,Koramangala,"South Indian, South Asian",2.0,367
+Star Junction Multi-cuisine,Kochi,Marine Drive,"Bakery, Pizza, Desserts, Thai",3.9,1148
+Sunrise Cafe Pure Veg,Bangalore,Banashankari,Seafood,3.5,1196
+Café Mocha,Pune,Baner,Vegan,3.5,1641
+Tandoor Bistro & Co,Pune,Hadapsar,Biryani,2.4,971
+KFC,Ahmedabad,Maninagar,Bengali,3.2,860
+Sai Diner,Chennai,Tambaram,Mughlai,4.7,829
+Spice Restaurant Co.,Surat,Adajan,"Finger Food, Andhra, Maharashtrian, Biryani",4.3,1160
+Spice Treats Multi-cuisine,Surat,Vesu,"Gujarati, Burger",1.9,992
+Karim's,Delhi,Pitampura,"Cafe, Gujarati, Bengali, Bakery",3.8,1056
+Royal Sweets & Snacks Express,Hyderabad,Madhapur,Thai,2.8,1096
+South Indian Junction Express,Kolkata,Ballygunge,"Vegan, Beverages",4.0,1394
+Family Bistro Express,Mumbai,Goregaon,"Sandwich, Thai, North Indian, Kerala",4.3,1050
+Imperial Spot,Chennai,Mylapore,Maharashtrian,5.0,1190
+Café Mocha,Indore,Geeta Bhawan,"Ice Cream, Fast Food, Tandoor, South Asian",3.1,397
+Green Garden & Co,Indore,Sukhliya,"Continental, South Indian",3.8,801
+Annapurna Spot,Indore,MG Road,"Sandwich, Bakery, Rajasthani, Cafe",4.4,1765
+Golden Lounge by Chef Raju,Indore,Vijay Nagar,Mexican,3.7,1501
+Golden Plaza by Chef Raju,Chandigarh,Sector 7,Healthy Food,4.8,2447
+Punjab Grill,Kochi,MG Road,"Vegan, Chinese, Bengali, Cafe",4.1,1370
+Taco Bell,Jaipur,Mansarovar,"Mithai, Street Food",4.1,1459
+Imperial Corner Non-Veg Special,Surat,Athwa,"Thai, Mughlai, Italian, Bengali",3.4,1518
+Cloud Family Restaurant Non-Veg Special,Jaipur,C Scheme,"Tandoor, Vegan, Bengali",4.4,1576
+Social,Pune,Hadapsar,"Mexican, Italian",2.4,229
+Maharaja Bistro Non-Veg Special,Indore,Rajwada,Mexican,3.7,2005
+City Diner,Kochi,Edappally,Mexican,2.9,503
+City Spot by Chef Raju,Nagpur,Hingna,"South Asian, Finger Food, Salads",4.5,1947
+Bikanervala,Hyderabad,Himayatnagar,"Momos, Burger",3.8,544
+Urban Plaza,Bangalore,Marathahalli,"Cafe, Desserts, Beverages",3.1,703
+Treat Cafe Co.,Chandigarh,Sector 35,Andhra,5.0,1265
+Cloud Junction,Ahmedabad,Thaltej,Rajasthani,4.7,1373
+The Belgian Waffle Co.,Kochi,Vyttila,"Mexican, Ice Cream, Asian",4.2,1972
+Imperial Kitchen,Chennai,Anna Nagar,Seafood,0.6,451
+Pizza Hut,Ahmedabad,Paldi,"Finger Food, Salads",3.0,567
+Heritage Family Restaurant,Delhi,Karol Bagh,Healthy Food,3.6,1257
+Royal Family Restaurant by Chef Raju,Chandigarh,Manimajra,"Desserts, Kerala, Bengali, Gujarati",3.5,1047
+Maharaja Hub,Chennai,Nungambakkam,"Tandoor, Maharashtrian",4.4,990
+City Bar & Grill Express,Surat,Piplod,Desserts,3.0,1343
+Star Grill House Multi-cuisine,Chennai,Anna Nagar,North Indian,3.7,1242
+Star Grill House,Bangalore,BTM Layout,"Cafe, Gujarati",3.3,527
+Hotel Point Non-Veg Special,Nagpur,Wardha Road,"Burger, South Indian, North Indian, Desserts",3.2,1460
+Family Sweets & Snacks,Mumbai,Malad,"South Indian, Street Food",4.3,1133
+Star Eatery & Co,Chandigarh,Sector 8,"Street Food, Bengali, Healthy Food, Asian",0.4,333
+Costa Coffee,Chandigarh,Sector 17,"Punjabi, Beverages",1.4,859
+Sagar Ratna,Lucknow,Aminabad,Healthy Food,2.9,652
+Urban Hub by Chef Raju,Surat,Vesu,"Seafood, Thai, Bengali",2.2,720
+Café Mocha,Nagpur,Civil Lines,"Bengali, South Asian, Maharashtrian",3.4,403
+Shree Bistro Non-Veg Special,Pune,Hinjewadi,Maharashtrian,3.8,404
+Family Garden & Co,Nagpur,Civil Lines,"Bakery, Tandoor, Kebab",3.9,912
+Haldiram's,Indore,Bhawarkua,"Bakery, Desserts",4.2,874
+City Sweets & Snacks,Pune,Hinjewadi,South Indian,4.4,1019
+Five Star Chicken,Pune,Viman Nagar,Ice Cream,2.5,88
+Sai Dhaba,Mumbai,Malad,"Finger Food, Biryani",2.9,222
+New Spot by Chef Raju,Mumbai,Powai,"Beverages, Healthy Food, Vegan",3.1,518
+Big Bistro Co.,Mumbai,Thane West,"Beverages, Mithai, North Indian",4.9,800
+Family Garden Express,Kochi,Palarivattom,"Tandoor, Fast Food",2.9,942
+City Dhaba by Chef Raju,Kolkata,New Town,Sandwich,2.4,1015
+Cloud Foods,Surat,Ghod Dod Road,Andhra,3.9,1201
+Tandoor Diner Co.,Ahmedabad,Naranpura,"Mexican, Kerala, Biryani, Italian",4.6,1879
+Family Family Restaurant,Bangalore,Indiranagar,"Tandoor, Salads, Continental, Street Food",2.8,345
+Faasos,Indore,Rajwada,"Biryani, Kebab, Rajasthani",2.6,1070
+Sai Tiffin Centre Multi-cuisine,Hyderabad,Himayatnagar,"Ice Cream, Kebab, Rajasthani",5.0,2003
+Mad Over Donuts,Bangalore,MG Road,"South Asian, Burger, Bakery, South Indian",2.3,139
+Tasty Plaza,Ahmedabad,Navrangpura,"Desserts, Seafood, Vegan",4.1,1268
+Punjabi Junction,Surat,Nanpura,"South Asian, Healthy Food, Momos, Mithai",3.4,1661
+Imperial Dhaba Multi-cuisine,Delhi,Connaught Place,"Andhra, Gujarati, Tandoor, Sandwich",0.9,1140
+Urban Point Multi-cuisine,Lucknow,Mahanagar,"Seafood, Gujarati",3.8,1375
+Tandoor Hub Express,Lucknow,Rajajipuram,"Ice Cream, Lebanese, Beverages, Healthy Food",1.4,1013
+Treat Grill House & Co,Chandigarh,Sector 15,"Mughlai, South Indian, Finger Food",1.2,714
+Taco Bell,Surat,Udhna,"Fast Food, Kerala, Punjabi, Maharashtrian",3.5,1227
+Star Restaurant,Pune,Baner,"Street Food, Hyderabadi, Beverages",0.5,76
+Imperial Eatery & Co,Ahmedabad,C G Road,Ice Cream,4.0,1334
+Spice Point,Chandigarh,Sector 15,"Hyderabadi, South Asian",3.9,1721
+City Bistro Pure Veg,Bangalore,Banashankari,Mithai,3.0,257
+South Indian Plaza,Hyderabad,Himayatnagar,Finger Food,3.4,1266
+Punjabi Garden,Surat,Katargam,"Healthy Food, Seafood, Kerala",4.2,1038
+Big Diner,Kolkata,Behala,"South Indian, Salads",4.5,2302
+Curry Hub Express,Pune,Hadapsar,"Asian, Mughlai, Salads, Biryani",3.5,693
+City House,Bangalore,HSR Layout,"Maharashtrian, Thai",4.4,1678
+South Indian Dhaba,Hyderabad,Himayatnagar,"South Indian, Rolls",4.4,1647
+City Tiffin Centre,Ahmedabad,Thaltej,"Beverages, Thai",2.8,662
+KFC,Lucknow,Jankipuram,"South Indian, Mughlai, Continental, Andhra",4.0,1005
+Imperial Restaurant Multi-cuisine,Kochi,Vyttila,"Rolls, Street Food",4.0,1090
+Coastal Express & Co,Jaipur,Sodala,"Continental, Rolls, Kebab, Street Food",4.3,1340
+Krishna Foods Co.,Nagpur,Khamla,"Pizza, Desserts, Fast Food, Cafe",3.0,1065
+Royal Point Non-Veg Special,Kolkata,Howrah,"Street Food, Andhra, Mithai",3.7,1402
+Biryani Garden & Co,Hyderabad,Gachibowli,Kebab,0.9,111
+Tasty Junction,Indore,Palasia,"Street Food, Mithai, Rolls",4.5,910
+Coastal Corner & Co,Kochi,Panampilly Nagar,Rolls,3.3,1069
+Sai Tiffin Centre Multi-cuisine,Lucknow,Aminabad,Thai,4.5,2070
+Cafe Sweets & Snacks Multi-cuisine,Indore,Sukhliya,Beverages,4.2,1100
+Shree Hub by Chef Raju,Chennai,Mylapore,"South Indian, Mughlai, Cafe, Tandoor",4.4,365
+Cafe Spot,Kolkata,New Town,Beverages,3.1,734
+Krishna House Pure Veg,Nagpur,Khamla,"Bakery, Momos, Cafe, Finger Food",4.4,1048
+Tasty Lounge Express,Mumbai,Goregaon,"South Indian, Lebanese",4.1,1573
+Punjabi Corner,Kochi,Marine Drive,Rajasthani,4.1,1594
+Urban Spot,Bangalore,Koramangala,Salads,3.7,1628
+Punjabi Corner & Co,Mumbai,Juhu,"Gujarati, Bakery, Kerala, Pizza",4.0,895
+Green Bites & Co,Kolkata,Ballygunge,"Rolls, Vegan, Tandoor",4.6,2091
+Baskin Robbins,Lucknow,Rajajipuram,"Andhra, Rajasthani",4.2,2111
+New Restaurant,Indore,Sukhliya,Mughlai,3.4,1225
+Tandoor Plaza,Kochi,Vyttila,Momos,3.9,1235
+Giani's,Kolkata,Garia,Finger Food,2.9,1120
+Green Restaurant by Chef Raju,Ahmedabad,Paldi,"Desserts, Momos, Street Food, Andhra",1.1,1022
+Coastal Eatery & Co,Nagpur,Wardha Road,"Vegan, Momos, Salads",3.3,820
+Green Hub,Indore,MG Road,"Mughlai, Biryani, Desserts, Burger",2.9,744
+Imperial Point,Bangalore,MG Road,"Punjabi, Lebanese, South Asian, Sandwich",3.9,1404
+Sagar Ratna,Mumbai,Borivali,"Beverages, Healthy Food",4.4,2388
+The Express Express,Pune,Shivaji Nagar,"Maharashtrian, Italian",3.1,529
+Haldiram's,Kochi,Vyttila,"Bengali, Finger Food, Fast Food, Andhra",2.8,981
+New Plaza,Nagpur,Pratap Nagar,Hyderabadi,4.9,2657
+Pizza Hut,Chennai,Tambaram,"Andhra, Mughlai, Italian",3.9,1713
+South Indian Grill House Multi-cuisine,Mumbai,Goregaon,South Indian,4.5,1227
+Sai Tiffin Centre,Surat,Piplod,Seafood,3.8,1274
+Barbeque Nation,Kochi,Aluva,"Healthy Food, Biryani, South Asian",3.8,1556
+Golden Grill House Multi-cuisine,Hyderabad,Himayatnagar,"Vegan, Cafe, Kerala",4.1,313
+Tandoor Treats,Jaipur,Tonk Road,"South Asian, Salads",4.1,1110
+Coastal Point & Co,Hyderabad,Ameerpet,"Bakery, Seafood",4.5,2045
+Subway,Hyderabad,Himayatnagar,Healthy Food,2.4,845
+Star Corner by Chef Raju,Mumbai,Lower Parel,"Finger Food, Continental, Healthy Food",0.4,947
+Royal Restaurant Multi-cuisine,Bangalore,Whitefield,"Andhra, Finger Food, Sandwich",4.3,1460
+Golden Foods Express,Chennai,Adyar,"Fast Food, Kerala, Mithai",0.4,238
+Heritage Sweets & Snacks Multi-cuisine,Delhi,Saket,"Seafood, Vegan, Bengali, Rajasthani",4.4,520
+Shree Bites Co.,Bangalore,Indiranagar,Pizza,3.8,752
+Hotel Grill House Pure Veg,Kolkata,Rajarhat,"Ice Cream, Kerala",0.5,312
+Family Bites Pure Veg,Indore,MG Road,"Biryani, Mexican",4.0,780
+Mainland China,Chennai,T Nagar,"South Asian, Finger Food, Kebab, Lebanese",5.0,1215
+Annapurna Plaza,Kolkata,Tollygunge,"Burger, Mughlai, Salads, South Indian",3.7,1580
+City Point,Mumbai,Malad,"Vegan, Punjabi, Tandoor, Kerala",0.5,393
+Big Treats Express,Ahmedabad,Paldi,"Kebab, Sandwich, Bakery",4.5,2379
+Krishna Cafe Express,Kolkata,Garia,"Mexican, Continental",4.2,663
+Spice Eatery Pure Veg,Pune,Hinjewadi,"Rolls, Pizza, Lebanese",1.2,734
+Urban Cafe Non-Veg Special,Kochi,Fort Kochi,Italian,3.4,613
+New House by Chef Raju,Mumbai,Colaba,Lebanese,3.2,1197
+Coastal Diner Pure Veg,Chandigarh,Sector 22,Fast Food,4.4,1488
+Barbeque Nation,Nagpur,Hingna,"Street Food, Pizza",4.7,1060
+Family Foods,Indore,MG Road,"Bengali, Hyderabadi",4.4,745
+The Treats Pure Veg,Ahmedabad,C G Road,"Mexican, Healthy Food, Beverages",2.1,849
+Café Mocha,Chennai,Velachery,"Burger, Bakery, Kerala, Maharashtrian",4.7,2198
+Heritage Bar & Grill,Surat,Ghod Dod Road,Continental,3.4,750
+Royal Family Restaurant,Kolkata,Park Street,"Asian, Mughlai",5.0,3014
+Tandoor Sweets & Snacks Non-Veg Special,Hyderabad,Secunderabad,"Andhra, Punjabi, North Indian",4.4,1421
+Punjabi Hub Express,Indore,Sukhliya,"Punjabi, Rajasthani, Biryani, Seafood",2.1,685
+Cloud Junction Co.,Kolkata,Ballygunge,Healthy Food,4.0,1571
+The Belgian Waffle Co.,Surat,City Light,"Rolls, Seafood, Kerala",5.0,529
+Big Garden,Nagpur,Ramdaspeth,Street Food,3.8,836
+Krishna Foods Express,Ahmedabad,Paldi,"Punjabi, Seafood",3.2,1720
+Big Foods Co.,Lucknow,Aliganj,Andhra,3.9,1084
+Mainland China,Ahmedabad,Satellite,"Continental, Mughlai, Kerala, Bakery",3.8,816
+Cloud Express Multi-cuisine,Chennai,Porur,"Finger Food, South Asian, Kerala",5.0,2889
+Green Express,Indore,Sukhliya,"Sandwich, Bakery, Healthy Food, Salads",2.5,932
+Cloud Garden,Ahmedabad,Navrangpura,"Street Food, Bengali, Asian, Mexican",1.0,241
+Hotel Junction Pure Veg,Chennai,Nungambakkam,Desserts,2.8,1058
+Punjabi Cafe Pure Veg,Delhi,Rajouri Garden,Street Food,3.9,257
+Star Diner by Chef Raju,Kolkata,Tollygunge,"Ice Cream, Kebab, Bakery, Healthy Food",4.1,1734
+Karim's,Bangalore,Marathahalli,"Gujarati, Burger, Rajasthani, Hyderabadi",3.9,1937
+Maharaja Cafe,Indore,Bhawarkua,"Lebanese, Street Food, Continental",2.9,1382
+Big Bistro Pure Veg,Chandigarh,Sector 17,Street Food,4.1,1318
+South Indian Sweets & Snacks Express,Delhi,Rajouri Garden,"Continental, Mithai, Kebab, Andhra",3.6,1111
+Urban Eatery,Nagpur,Sadar,"Gujarati, Momos, Continental",2.5,1109
+Mad Over Donuts,Bangalore,HSR Layout,Desserts,3.3,719
+Urban Bites,Delhi,Janakpuri,"Gujarati, Fast Food, Andhra",2.8,642
+Theobroma,Kolkata,Salt Lake,"South Asian, Healthy Food",4.3,1034
+Cloud Eatery,Hyderabad,Banjara Hills,"South Indian, Maharashtrian, Burger, Thai",4.0,1182
+Green Junction Express,Pune,Camp,"Tandoor, Continental, Healthy Food, Pizza",4.4,1134
+Cloud Eatery Non-Veg Special,Jaipur,Vaishali Nagar,"Chinese, North Indian, Sandwich, Vegan",3.3,177
+New Family Restaurant Multi-cuisine,Delhi,Lajpat Nagar,"Pizza, Finger Food, Healthy Food",3.2,1243
+Tasty Sweets & Snacks,Chandigarh,Sector 22,"Lebanese, Thai",4.5,1563
+Cafe Tiffin Centre & Co,Surat,Ghod Dod Road,"Thai, Rolls, Andhra, Hyderabadi",3.0,1003
+The Plaza Pure Veg,Delhi,Saket,North Indian,4.2,1942
+Cloud Restaurant,Kochi,Kaloor,Mithai,0.8,911
+Shree Lounge Express,Lucknow,Gomti Nagar,"Gujarati, Cafe, North Indian",2.6,437
+The Grill House & Co,Ahmedabad,Navrangpura,"Biryani, Continental, Vegan",4.1,1707
+Royal Corner Pure Veg,Pune,Hadapsar,"North Indian, Biryani",5.0,2568
+Family Cafe Non-Veg Special,Mumbai,Malad,"Asian, Kebab",4.0,436
+Rollshut,Indore,Sapna Sangeeta,"Salads, Thai",2.9,344
+Tandoor Hub Pure Veg,Indore,Geeta Bhawan,Kerala,4.1,1249
+City Corner,Nagpur,Ramdaspeth,"South Asian, Bengali, Salads, Chinese",4.5,654
+Cafe Bites Multi-cuisine,Hyderabad,Secunderabad,"Hyderabadi, Continental",4.5,612
+Coastal Treats Co.,Indore,Sukhliya,"Hyderabadi, Seafood",1.6,198
+The Spot,Delhi,Lajpat Nagar,"Momos, Rolls, Fast Food",3.8,628
+South Indian Restaurant Express,Nagpur,Ramdaspeth,"Fast Food, Tandoor, Finger Food, Street Food",2.1,68
+Biryani Restaurant,Kolkata,Garia,Tandoor,1.4,884
+Cloud Kitchen & Co,Mumbai,Bandra West,"Rajasthani, Fast Food, Vegan, Maharashtrian",3.1,418
+City Plaza Express,Ahmedabad,C G Road,Hyderabadi,4.1,1238
+Punjabi Dhaba,Ahmedabad,Thaltej,Kebab,4.2,1512
+Five Star Chicken,Kochi,Aluva,"Punjabi, Maharashtrian, Ice Cream",4.3,1289
+Royal Bar & Grill & Co,Pune,Hinjewadi,"Healthy Food, Punjabi, Seafood, Finger Food",4.5,699
+Hotel Garden,Ahmedabad,Bopal,"Mughlai, Rolls",3.9,981
+Punjabi Tiffin Centre Co.,Kolkata,Garia,Hyderabadi,2.9,1171
+Star House Express,Chandigarh,Sector 8,"Maharashtrian, Hyderabadi, Beverages",2.3,1015
+Biryani Treats Pure Veg,Pune,Koregaon Park,"Rolls, Ice Cream",4.3,1469
+The Garden,Pune,Wakad,Punjabi,0.7,291
+Star Grill House by Chef Raju,Hyderabad,Ameerpet,South Indian,3.0,526
+Cafe Hub Co.,Pune,Aundh,"Biryani, South Indian",2.9,334
+Krishna Dhaba by Chef Raju,Delhi,Saket,"Seafood, Sandwich",3.1,608
+Imperial Sweets & Snacks,Jaipur,Sodala,Desserts,4.5,754
+Treat House Express,Pune,Camp,"Rolls, Chinese, Vegan, Finger Food",2.9,841
+Royal Tiffin Centre & Co,Surat,City Light,"Healthy Food, Finger Food",4.5,694
+Sunrise Restaurant,Surat,Nanpura,"Healthy Food, Bengali, South Asian, Salads",3.8,1257
+Family Point & Co,Jaipur,Civil Lines,"Finger Food, Chinese, Pizza, Burger",4.6,1555
+Imperial Lounge Express,Kolkata,New Town,"Bengali, Momos",4.0,452
+South Indian Spot,Hyderabad,Ameerpet,"Healthy Food, Vegan, Hyderabadi, Kerala",3.8,1476
+Tasty Bites,Chennai,Egmore,"Burger, Momos, Italian, Punjabi",4.6,1764
+Krishna Corner Co.,Jaipur,Jagatpura,Street Food,1.8,1118
+Cafe Corner & Co,Pune,Kothrud,"Biryani, Kebab, Bakery",5.0,3069
+Bikanervala,Kochi,Fort Kochi,"Punjabi, Rajasthani, Finger Food",4.3,1077
+Green Lounge Co.,Lucknow,Jankipuram,"Pizza, Ice Cream",3.1,1521
+Heritage House,Surat,Nanpura,"Biryani, Kerala, Maharashtrian",3.0,1398
+Cafe Coffee Day,Delhi,Dwarka,"North Indian, South Asian, Punjabi",3.4,1302
+Biryani Hub & Co,Lucknow,Alambagh,"Finger Food, South Indian, Asian",4.4,678
+Sunrise Plaza Express,Chennai,Tambaram,"Gujarati, Pizza, Rajasthani, Italian",3.9,1310
+Heritage Tiffin Centre & Co,Mumbai,Borivali,Beverages,2.3,363
+Urban Bistro,Delhi,Janakpuri,"Mexican, Pizza, Burger, Salads",1.8,754
+Chili's,Jaipur,Malviya Nagar,"Beverages, Street Food, Bakery, Mithai",3.7,940
+Box8,Kochi,Kakkanad,"Kerala, Ice Cream, Beverages",4.0,965
+The Bar & Grill Pure Veg,Jaipur,Civil Lines,Rajasthani,4.0,1529
+Heritage Diner Express,Chennai,Tambaram,Continental,3.3,1123
+Shree Cafe Multi-cuisine,Indore,Bhawarkua,"Cafe, Vegan",4.3,1719
+Spice Lounge,Kochi,Edappally,"Beverages, Thai",4.5,1797
+Annapurna Bistro Pure Veg,Lucknow,Gomti Nagar,"Lebanese, Street Food, Bengali, Italian",4.3,1685
+Box8,Kolkata,Tollygunge,Sandwich,0.7,945
+Maharaja Bistro Multi-cuisine,Kolkata,Garia,North Indian,3.1,744
+Golden Restaurant Non-Veg Special,Chennai,Egmore,"Tandoor, Bakery",3.8,765
+Urban Junction,Bangalore,Indiranagar,"Beverages, Italian, North Indian, Thai",2.8,488
+Cloud Bistro Pure Veg,Pune,Koregaon Park,Salads,4.1,1462
+Sunrise Bites,Kolkata,Howrah,"Biryani, Rolls, Bengali, Continental",0.4,29
+Golden Treats,Chennai,Velachery,"Beverages, Chinese",3.7,861
+Sunrise Bistro Non-Veg Special,Chennai,Porur,"Kerala, Street Food, Burger, Pizza",2.4,355
+The Lounge Co.,Delhi,Pitampura,"Burger, Italian, Thai, Vegan",3.5,565
+Family Dhaba Non-Veg Special,Kolkata,Howrah,"Momos, Fast Food",4.0,1839
+Curry Grill House by Chef Raju,Lucknow,Aliganj,"Italian, Hyderabadi, South Indian, Kebab",4.7,1902
+Biryani Bites Co.,Jaipur,Mansarovar,Vegan,4.3,950
+Sunrise Restaurant,Pune,Wakad,"Bengali, South Asian",3.3,933
+Annapurna Plaza Pure Veg,Pune,Koregaon Park,"Bakery, Thai, Andhra",4.1,1210
+Hotel Grill House,Surat,Piplod,"Hyderabadi, Rolls",3.0,560
+Tasty Express by Chef Raju,Surat,Athwa,"Tandoor, North Indian",1.7,143
+Green Bistro,Pune,Koregaon Park,Cafe,4.0,871
+Heritage Junction,Jaipur,C Scheme,"Rolls, Kerala",2.9,741
+Curry Bistro & Co,Hyderabad,Himayatnagar,"Continental, Bengali, Rajasthani, Gujarati",2.9,1065
+Sai Bar & Grill Pure Veg,Jaipur,Sodala,Gujarati,3.7,776
+Behrouz Biryani,Chandigarh,Sector 43,"Gujarati, Sandwich, Seafood",3.8,1715
+Cafe Coffee Day,Chandigarh,Sector 9,"Biryani, Desserts, North Indian, Healthy Food",4.3,1785
+Annapurna Garden Multi-cuisine,Kolkata,Behala,"Seafood, Finger Food, Italian, Maharashtrian",4.5,1142
+Mainland China,Kochi,Aluva,"Punjabi, Healthy Food, South Asian",4.1,801
+Annapurna Treats Co.,Lucknow,Alambagh,"Chinese, Bengali, South Indian, Desserts",3.2,662
+Tandoor Cafe,Hyderabad,Madhapur,Continental,4.1,1522
+Golden Express Co.,Indore,Annapurna,"Beverages, Kerala, Momos, Seafood",3.9,1616
+Sai Foods,Chandigarh,Sector 26,Asian,4.4,1055
+Tasty Sweets & Snacks & Co,Hyderabad,Madhapur,Beverages,4.4,294
+Curry Junction Multi-cuisine,Mumbai,Goregaon,"Cafe, Bengali",2.9,479
+Spice Diner Express,Ahmedabad,Maninagar,"Cafe, Biryani",1.5,392
+Coastal Plaza,Hyderabad,Secunderabad,"Continental, Mexican",2.1,566
+Theobroma,Mumbai,Borivali,"South Asian, Fast Food, North Indian, Mughlai",3.2,1231
+Café Mocha,Surat,Adajan,Gujarati,4.0,1478
+Cafe Garden,Ahmedabad,Paldi,"Andhra, Rolls, Bengali",4.2,859
+The Diner Multi-cuisine,Chennai,Besant Nagar,"South Indian, Kebab",2.6,631
+Sunrise Family Restaurant,Indore,Palasia,"Healthy Food, Maharashtrian, Biryani, North Indian",5.0,981
+Krishna Foods by Chef Raju,Lucknow,Aminabad,"Burger, Kebab, South Asian, Rajasthani",4.3,952
+Maharaja Sweets & Snacks,Kolkata,Tollygunge,"Mexican, Kebab, Biryani, Desserts",4.5,2303
+Golden Junction,Delhi,Saket,"Beverages, Tandoor, Street Food, Ice Cream",4.2,1001
+Tandoor Sweets & Snacks,Pune,Hinjewadi,Kerala,5.0,525
+Sai Corner Co.,Kochi,Vyttila,"Ice Cream, Street Food, Bakery",4.7,2542
+Coastal Spot Express,Mumbai,Borivali,Hyderabadi,3.6,1643
+City Treats Co.,Lucknow,Jankipuram,"Street Food, Mexican, Continental",2.4,385
+Green House Multi-cuisine,Indore,Sapna Sangeeta,Seafood,1.6,388
+Cafe Grill House by Chef Raju,Nagpur,Manish Nagar,"Salads, Kebab",4.0,1047
+Cafe Bar & Grill & Co,Delhi,Greater Kailash,"South Asian, Sandwich",2.8,399
+Hotel Express,Indore,Vijay Nagar,"Asian, Ice Cream, Pizza",3.9,1850
+Box8,Delhi,Dwarka,"Mughlai, Cafe",4.5,2390
+Cloud Lounge by Chef Raju,Hyderabad,Gachibowli,"Ice Cream, Punjabi, Rajasthani, Italian",3.9,1052
+Cloud Lounge,Indore,Palasia,"Andhra, Finger Food",4.5,832
+Heritage Sweets & Snacks Pure Veg,Ahmedabad,Maninagar,"Desserts, Pizza, Biryani",4.3,847
+Starbucks,Indore,Annapurna,"Kerala, Beverages, Mughlai, Fast Food",3.5,902
+Curry House Express,Delhi,Karol Bagh,"Desserts, Rajasthani, Rolls, Chinese",2.5,1000
+Curry Foods Multi-cuisine,Hyderabad,Himayatnagar,Sandwich,4.5,2212
+Spice Dhaba,Hyderabad,Ameerpet,South Asian,4.1,1373
+Star Point & Co,Delhi,Janakpuri,Finger Food,2.9,1106
+Wendy's,Hyderabad,Himayatnagar,Mithai,2.9,346
+Krishna Express Pure Veg,Kolkata,Rajarhat,Salads,4.5,1456
+Imperial Dhaba,Surat,Athwa,"North Indian, Lebanese",3.8,733
+Curry Cafe,Delhi,Saket,"Chinese, Continental, Street Food",3.9,1704
+Tandoor Bites Co.,Bangalore,Electronic City,"Chinese, Salads, Mexican",4.1,1093
+Big Garden Express,Chandigarh,Sector 9,"Fast Food, Chinese",3.1,435
+Sunrise Hub Co.,Hyderabad,Madhapur,"Thai, Bakery, Vegan",3.7,1257
+Urban Lounge Pure Veg,Hyderabad,Secunderabad,Momos,4.2,1586
+Keventers,Jaipur,Mansarovar,"Bengali, Asian",4.1,1251
+Krishna Eatery Multi-cuisine,Kolkata,Ballygunge,Kebab,3.1,450
+City Restaurant by Chef Raju,Jaipur,C Scheme,Bengali,4.6,989
+Spice Lounge Co.,Nagpur,Sitabuldi,"Fast Food, Street Food, Cafe, Salads",4.3,1655
+Star Junction Non-Veg Special,Mumbai,Colaba,"Kebab, Fast Food, Mughlai",2.9,549
+Imperial Lounge Pure Veg,Chennai,Porur,"Momos, North Indian",4.2,1644
+Rollshut,Lucknow,Aliganj,"Mughlai, Bengali, Rolls",4.2,1749
+Krishna Diner Non-Veg Special,Bangalore,MG Road,"Thai, Kerala, Salads",4.8,1278
+City Grill House by Chef Raju,Lucknow,Gomti Nagar,Continental,2.0,191
+Sagar Ratna,Bangalore,Banashankari,"North Indian, Kerala, Healthy Food, Bakery",3.8,1840
+Sunrise Bistro,Indore,Sapna Sangeeta,"Mithai, Punjabi, Rolls, Salads",4.2,1076
+Urban Restaurant by Chef Raju,Bangalore,BTM Layout,"Healthy Food, Punjabi",4.8,2122
+Spice House,Kolkata,Ballygunge,"Mithai, Street Food",3.3,1036
+Rollshut,Hyderabad,Madhapur,"Pizza, Seafood, Healthy Food, Chinese",4.8,2567
+Costa Coffee,Delhi,Dwarka,"Seafood, Punjabi, Fast Food",0.1,381
+Mainland China,Kolkata,Garia,"Biryani, Continental, Salads, Healthy Food",4.6,1240
+Mad Over Donuts,Kochi,Kaloor,"Ice Cream, Rajasthani",3.5,1300
+New Dhaba Pure Veg,Kochi,Edappally,"Beverages, Bakery, Punjabi, Kerala",0.1,406
+Green Lounge Multi-cuisine,Mumbai,Juhu,"Chinese, Beverages, Biryani",4.8,2225
+Family Family Restaurant,Mumbai,Goregaon,"Rajasthani, Healthy Food, Gujarati",2.7,75
+The Grill House,Bangalore,Whitefield,"Mughlai, Hyderabadi",3.7,809
+Family Restaurant Multi-cuisine,Kolkata,Tollygunge,"Vegan, Desserts",4.3,943
+Biryani Treats,Hyderabad,Jubilee Hills,"Biryani, Ice Cream, Fast Food, Healthy Food",4.1,692
+KFC,Pune,Viman Nagar,"Biryani, Desserts, Kerala",0.4,186
+Big Junction,Nagpur,Sadar,"Burger, Hyderabadi",3.7,1178
+New Garden & Co,Kolkata,Park Street,"Maharashtrian, Rolls, Andhra",4.6,578
+Cafe Bistro & Co,Delhi,Connaught Place,"Thai, Kebab, Fast Food, Kerala",2.9,965
+Domino's Pizza,Chennai,Nungambakkam,"Hyderabadi, Bengali",4.3,1839
+New Bistro Express,Chandigarh,Sector 8,"Continental, Fast Food, Bakery, Kebab",2.6,455
+Golden Hub Express,Pune,Hadapsar,"Seafood, Ice Cream, Biryani",3.9,378
+Biryani Corner Non-Veg Special,Bangalore,Jayanagar,"Bengali, Tandoor, Street Food",4.7,1249
+Big Bites,Kolkata,Rajarhat,"Bakery, Mexican, Chinese",4.9,657
+Cloud Express,Indore,Sukhliya,"Tandoor, Healthy Food",3.6,1313
+The Cafe Express,Chandigarh,Sector 26,"Finger Food, North Indian",4.5,2082
+Maharaja Treats & Co,Jaipur,Jagatpura,"Lebanese, Street Food, Beverages",3.0,785
+Imperial Corner,Hyderabad,Banjara Hills,"Mughlai, Rolls, Pizza",3.9,782
+Cafe Restaurant Non-Veg Special,Lucknow,Vikas Nagar,"Bakery, Maharashtrian, Vegan",3.3,107
+New Cafe & Co,Nagpur,Ramdaspeth,Mithai,4.1,1252
+New Tiffin Centre,Indore,Sukhliya,"Tandoor, Burger",3.4,1423
+Chai Point,Lucknow,Alambagh,"Bengali, Desserts, Ice Cream, Continental",3.9,1106
+Family Foods,Nagpur,Civil Lines,"South Indian, Seafood, Beverages",4.5,1290
+Theobroma,Mumbai,Powai,"Rajasthani, Fast Food, Salads, Bakery",4.3,315
+Domino's Pizza,Kolkata,Behala,Bakery,3.1,629
+Domino's Pizza,Bangalore,Banashankari,Mithai,4.3,886
+Star Diner,Pune,Hinjewadi,"Hyderabadi, Ice Cream, Desserts",3.1,910
+KFC,Lucknow,Jankipuram,Mithai,3.3,1308
+The Treats Multi-cuisine,Bangalore,Indiranagar,"Desserts, Punjabi, Mexican, Burger",4.7,2437
+Spice Treats,Lucknow,Gomti Nagar,"Punjabi, Italian, Vegan",3.4,550
+Urban Eatery Non-Veg Special,Kochi,MG Road,"Kebab, Cafe, Kerala",2.8,836
+Spice Corner Pure Veg,Chandigarh,Sector 26,"Momos, Italian, North Indian",4.5,704
+Annapurna Point,Chennai,Adyar,Asian,3.7,1522
+Green Cafe Multi-cuisine,Bangalore,Koramangala,"Andhra, South Asian, Kerala",3.8,1296
+Cloud Point Non-Veg Special,Bangalore,Jayanagar,"Mithai, Burger, Gujarati, Continental",4.0,1800
+South Indian Garden,Chandigarh,Sector 7,"South Indian, Bengali",4.0,504
+Maharaja Grill House,Delhi,Dwarka,"Sandwich, Desserts, Lebanese",4.9,1650
+Cafe Coffee Day,Pune,Baner,Desserts,3.6,952
+Tandoor Spot,Chennai,T Nagar,"Kebab, Beverages, South Indian, Desserts",3.5,631
+Shree Eatery,Mumbai,Andheri West,"Ice Cream, Bakery",4.3,1989
+Heritage Tiffin Centre,Ahmedabad,C G Road,"Street Food, Desserts, Mughlai",4.5,519
+Mainland China,Jaipur,Vaishali Nagar,"Lebanese, Momos, Asian, Healthy Food",3.3,1092
+Golden Express Multi-cuisine,Kochi,Edappally,"Pizza, Rajasthani",4.1,1241
+Golden Sweets & Snacks Pure Veg,Bangalore,BTM Layout,"Andhra, Rajasthani, Gujarati, Beverages",1.4,868
+Subway,Pune,Aundh,"Kebab, Hyderabadi, South Indian",3.1,1238
+The Grill House & Co,Mumbai,Bandra West,"Lebanese, Biryani",4.1,624
+Star Kitchen Express,Hyderabad,Jubilee Hills,"Chinese, Mughlai, Andhra, Continental",4.8,863
+Big Bistro by Chef Raju,Surat,Varachha,"Punjabi, Bakery, Fast Food, Hyderabadi",3.7,884
+Saravana Bhavan,Jaipur,Vaishali Nagar,"Finger Food, Chinese, Mexican, Beverages",2.8,318
+South Indian Bistro,Kochi,Marine Drive,"Beverages, Healthy Food",3.9,2185
+Green House & Co,Kochi,Vyttila,"Vegan, Kerala, Chinese",4.6,2365
+Sunrise Restaurant,Pune,Baner,"Fast Food, North Indian, Desserts, Seafood",3.9,1215
+Coastal Junction,Mumbai,Lower Parel,Thai,4.0,798
+Heritage Corner Pure Veg,Mumbai,Powai,"Tandoor, Bakery, Street Food",4.9,1398
+Maharaja Plaza,Chennai,Nungambakkam,"Tandoor, Bengali",3.9,1606
+Big Diner & Co,Chennai,Anna Nagar,Vegan,4.9,760
+Barbeque Nation,Indore,Geeta Bhawan,"Gujarati, Beverages, Asian",3.6,592
+Treat Diner Pure Veg,Kolkata,Tollygunge,"Fast Food, Continental, Cafe, Rajasthani",4.3,1279
+Sunrise Point Co.,Chennai,Anna Nagar,"Street Food, Thai, Sandwich, Chinese",3.9,1041
+Royal Plaza Multi-cuisine,Lucknow,Indira Nagar,Bengali,4.4,1451
+Sai Family Restaurant Multi-cuisine,Delhi,Hauz Khas,"Momos, Cafe, Continental",2.8,928
+Heritage Eatery Non-Veg Special,Mumbai,Malad,"Momos, Cafe",4.4,1150
+Krishna Sweets,Chennai,Nungambakkam,"Ice Cream, Mithai, Beverages, Kerala",3.5,1927
+Imperial Plaza Co.,Kolkata,Park Street,Finger Food,4.1,1257
+Coastal Bar & Grill Pure Veg,Delhi,Saket,"Street Food, Maharashtrian, Momos",3.9,996
+Curry Spot,Nagpur,Civil Lines,Pizza,4.3,1295
+Sunrise Lounge Co.,Indore,Geeta Bhawan,"Pizza, Biryani, Asian",4.9,1774
+Big Dhaba Pure Veg,Delhi,Rajouri Garden,"Maharashtrian, Punjabi, Mithai, Kerala",3.9,782
+Treat Cafe Non-Veg Special,Kochi,Edappally,"Mithai, Kerala",3.6,1692
+Coastal Dhaba,Lucknow,Mahanagar,Continental,4.1,1931
+Sunrise Hub,Mumbai,Lower Parel,"Healthy Food, Finger Food, Chinese, Mexican",4.5,988
+Spice Bistro Pure Veg,Surat,Nanpura,Punjabi,4.9,2105
+Punjab Grill,Kochi,Panampilly Nagar,"Healthy Food, Mexican",3.2,1047
+The Eatery,Hyderabad,Secunderabad,South Indian,2.8,1191
+Urban Spot Multi-cuisine,Nagpur,Khamla,"Lebanese, Rajasthani",2.9,1088
+Star Eatery,Nagpur,Sadar,"Cafe, Rajasthani, Andhra, Salads",2.8,288
+Curry Spot Multi-cuisine,Indore,Rajwada,"Lebanese, Beverages, Andhra",3.0,124
+Star Bar & Grill,Kolkata,Park Street,Asian,3.6,1130
+Curry Treats & Co,Lucknow,Aminabad,"Mithai, Rolls",4.3,1319
+Coastal Bar & Grill,Lucknow,Hazratganj,Finger Food,4.5,1266
+Starbucks,Kochi,Aluva,"Momos, Cafe, Continental",2.0,425
+The Eatery,Kolkata,Salt Lake,"Italian, Pizza, Maharashtrian, Gujarati",4.6,2388
+Domino's Pizza,Surat,City Light,"Asian, Kebab",4.5,1042
+Sunrise Hub,Chennai,Egmore,"Salads, Momos",4.7,603
+Sai Bar & Grill Co.,Jaipur,Malviya Nagar,"Street Food, Pizza, South Indian",3.4,417
+Family Bistro,Indore,Rajwada,"Lebanese, Mexican, Sandwich",4.3,1895
+New Cafe Co.,Jaipur,Raja Park,"Rajasthani, Fast Food, Finger Food",4.4,1874
+Family Eatery Pure Veg,Bangalore,Jayanagar,"Kebab, Thai, Andhra, Vegan",2.4,879
+Imperial Tiffin Centre,Pune,Shivaji Nagar,"Beverages, Chinese, Healthy Food, Momos",4.0,1611
+Behrouz Biryani,Chennai,Mylapore,"Kerala, Cafe, Punjabi",3.1,923
+Spice Bites by Chef Raju,Chennai,Adyar,Hyderabadi,3.0,973
+Tasty Junction Express,Kochi,Kakkanad,"Salads, Pizza",2.3,153
+City House by Chef Raju,Chandigarh,Sector 15,"Biryani, Mughlai",4.4,1159
+Nando's,Hyderabad,Secunderabad,"Kebab, Andhra",4.0,1618
+Rollshut,Delhi,Rajouri Garden,Sandwich,3.2,398
+Royal House,Kochi,Palarivattom,Italian,3.8,1233
+Tasty Restaurant Non-Veg Special,Hyderabad,Begumpet,"South Asian, Vegan, Mughlai",3.6,1769
+Sunrise Dhaba,Ahmedabad,Satellite,"Mughlai, North Indian",2.8,1005
+Punjab Grill,Pune,Hinjewadi,Mughlai,3.2,291
+Taco Bell,Delhi,Rajouri Garden,"Thai, Beverages, Bakery, Finger Food",3.8,885
+Imperial Eatery,Nagpur,Civil Lines,"Street Food, Salads, Rolls, Asian",3.8,1290
+New Grill House & Co,Chennai,Egmore,Punjabi,4.0,868
+Natural Ice Cream,Indore,Sapna Sangeeta,Pizza,0.3,958
+Spice House Co.,Nagpur,Manish Nagar,"Seafood, Sandwich, Desserts",4.5,582
+Heritage Plaza Non-Veg Special,Pune,Kothrud,"Rajasthani, Biryani",1.8,336
+Star Tiffin Centre,Lucknow,Mahanagar,"Sandwich, Fast Food",4.3,565
+The Point,Kochi,Kaloor,"Punjabi, Momos, Street Food, Lebanese",2.1,434
+Big House,Bangalore,Electronic City,"Thai, Bengali, Fast Food, Mughlai",4.1,2143
+Urban Plaza & Co,Pune,Aundh,"Salads, Kerala, Fast Food, Mughlai",4.1,709
+Star Corner Co.,Mumbai,Andheri West,Mithai,2.3,828
+Keventers,Kolkata,Behala,"Pizza, Beverages, Punjabi, Mexican",4.2,590
+Biryani Plaza Pure Veg,Mumbai,Powai,"Rolls, Beverages, Andhra",4.2,757
