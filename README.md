@@ -1,4 +1,4 @@
-# 🍛 Tiffin Trail — Restaurant Recommendation System
+# 🍛 RUDDY — Restaurant Recommendation System
 
 A content-based recommendation system with a custom "order ticket" themed UI.
 Users enter a food craving + city (+ optional locality) and get restaurants
@@ -31,6 +31,6 @@ streamlit run app.py
 - Color palette: cream (#FBF5E9), ink (#2E2A24), saffron (#E2A33B), terracotta (#C1542D), curry green (#5B6E49)
 - Fonts: Fraunces (headings), Inter (body), JetBrains Mono (scores)
 - Each restaurant result is shown as a "ticket": details on the left,
-  a dashed perforation, and a stamped match-percentage circle on the right
+  a dashed perforation, and a stamped match-percentage circle on the right.
 
   ________________________________________________________________________________________________________________________________________
