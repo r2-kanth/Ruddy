@@ -33,4 +33,6 @@ streamlit run app.py
 - Each restaurant result is shown as a "ticket": details on the left,
   a dashed perforation, and a stamped match-percentage circle on the right.
 
+## Lime Link for the application
+https://8h8ywupcmrbmou7qnryyxv.streamlit.app/
   ________________________________________________________________________________________________________________________________________
